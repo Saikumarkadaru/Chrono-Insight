@@ -1,1 +1,43 @@
-
+1. Braganza, A., Chen, W., Canhoto, A., & Sap, S. (2021). Productive employment and decent work: The impact of AI adoption on psychological contracts, job engagement and employee trust. Journal of business research, 131, 485-494.
+2. Broecke, S. (2023). Artificial intelligence and labour market matching. OECD Social, Employment and Migration Working Papers, (284).
+3. De Garis, H. (1989). What if AI succeeds? The rise of the twenty-first century artilect. AI magazine, 10(2), 17-17.
+4. Graglia, MAV, & Von Huelsen, PG (2020). The sixth wave of innovation: Artificial intelligence and the impacts on employment. Journal on Innovation and Sustainability RISUS , 11 (1), 3-17.
+5. Carchiolo, V., & Malgeri, M. (2024). Navigating the AI timeline: from 1995 to today. Artificial Intelligence, 460, 755.
+6. McIntosh, T. R., Susnjak, T., Liu, T., Watters, P., Xu, D., Liu, D., & Halgamuge, M. N. (2025). From google gemini to openai q*(q-star): A survey on reshaping the generative artificial intelligence (ai) research landscape. Technologies, 13(2), 51.
+7. Jiang, H. H., Brown, L., Cheng, J., Khan, M., Gupta, A., Workman, D., ... & Gebru, T. (2023, August). AI Art and its Impact on Artists. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (pp. 363-374).
+8. George, A. S. (2024). Artificial intelligence and the future of work: job shifting not job loss. Partners Universal Innovative Research Publication, 2(2), 17-37.
+9. The Impact of Artificial Intelligence on Innovation (Iain M. Cockburn
+Boston University and NBER
+Rebecca Henderson
+Harvard Business School and NBER
+Scott Stern
+MIT and NBER) - Not to cite
+10.  Zhang, K., & Aslan, A. B. (2021). AI technologies for education: Recent research & future directions. Computers and education: Artificial intelligence, 2, 100025.
+11. Garcia-Murillo, M., & MacInnes, I. (2019). The impact of AI on employment: a historical account of its evolution.
+12. Martens, B., & Tolan, S. (2018). Will this time be different? A review of the literature on the Impact of Artificial Intelligence on Employment, Incomes and Growth.
+13. Pissarides, C. A. (2018). The impact of AI on the future of work: Technology and jobs in the digital era. Royal Society British Academy Event: AI and the future of work, 20.
+14. Peñalvo, F. J. G., & Ingelmo, A. V. (2023). What do we mean by GenAI? A systematic mapping of the evolution, trends, and techniques involved in Generative AI. IJIMAI, 8(4), 7-16.
+15. IMPACT OF THE ARTIFICIAL INTELLIGENCE ON SOCIETY - Curriculum
+16. Cappelli, P. (2020). The consequences of AI-based technologies for jobs. R&I Paper Series, (4).
+17. Subaveerapandiyan, A., & Shimray, S. R. (2024). The evolution of job displacement in the age of AI and automation: a bibliometric review (1984–2024). Open Information Science, 8(1), 20240010.
+18. Clifton, J., Glasmeier, A., & Gray, M. (2020). When machines think for us: the consequences for work and place. Cambridge Journal of Regions, Economy and Society, 13(1), 3-23.
+19. Damioli, G., Van Roy, V., & Vertesy, D. (2021). The impact of artificial intelligence on labor productivity. Eurasian Business Review, 11(1), 1-25.
+20. Wang, J., Xing, Z., & Zhang, R. (2023). AI technology application and employee responsibility. Humanities and Social Sciences Communications, 10(1), 1-17.
+21. Sholler, D., & MacInnes, I. (2022). The economic impact of AI on employment and income disparities.
+22. Zhao, B. (2023). Analysis on the negative impact of AI development on employment and its countermeasures. In SHS web of conferences (Vol. 154, p. 03022). EDP Sciences.
+23. Webb, M. (2019). The impact of artificial intelligence on the labor market. Available at SSRN 3482150.
+24. Tai, M. C. T. (2020). The impact of artificial intelligence on human society and bioethics. Tzu chi medical journal, 32(4), 339-343.
+25. Brynjolfsson, E., Rock, D., & Syverson, C. (2017). Artificial intelligence and the modern productivity paradox: A clash of expectations and statistics (No. w24001). National Bureau of Economic Research.
+26. Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., ... & Troszyński, M. (2025). Generative AI and jobs: A refined global index of occupational exposure (No. 140). ILO Working Paper.
+27. Tiwari, R. (2023). The impact of AI and machine learning on job displacement and employment opportunities. International Journal of Engineering Technologies and Management Research, 7(1), 1-9.
+28. 10 AI milestones of the last 10 years | Royal Institution. (n.d.). Royal Institution. https://www.rigb.org/explore-science/explore/blog/10-ai-milestones-last-10-years
+29. 10 AI milestones of the last 10 years | Royal Institution. (n.d.). Royal Institution. https://www.rigb.org/explore-science/explore/blog/10-ai-milestones-last-10-years
+30. Karjian, R. (2024, September 24). The history of artificial intelligence: Complete AI timeline. Search Enterprise AI. https://www.techtarget.com/searchenterpriseai/tip/The-history-of-artificial-intelligence-Complete-AI-timeline
+31. Jiang, S., Pena, Y., Gines, D., Lang, T., Hwang, M., International Economic Development Council, & Economic Development Research Partners. (n.d.). Artificial Intelligence Impact on Labor Markets Literature Review. https://www.iedconline.org/clientuploads/EDRP%20Logos/AI_Impact_on_Labor_Markets.pdf
+32. Education, I. (2025, March 10). The impact of AI on job roles, workforce, and employment: What you need to know | Innopharma Education. Innopharma Education. https://www.innopharmaeducation.com/blog/the-impact-of-ai-on-job-roles-workforce-and-employment-what-you-need-to-know
+33. Administrator. (2025, October 24). The impact of AI on the job market and employment opportunities. University of San Diego Online Degrees. https://onlinedegrees.sandiego.edu/ai-impact-on-job-market/
+34. Impact of AI and automation on India’s employment landscape. (n.d.). Drishti IAS. https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape
+35. Six questions about the demand for artificial intelligence skills in labour markets. (2023, February 23). OECD. https://www.oecd.org/en/publications/six-questions-about-the-demand-for-artificial-intelligence-skills-in-labour-markets_ac1bebf0-en.html
+36. The effects of AI on the working lives of women. (2022, March 8). OECD. https://www.oecd.org/en/publications/the-effects-of-ai-on-the-working-lives-of-women_14e9b92c-en.html
+37 Academy, I. (2025, January 3). What is the Positive and Negative Impact of AI on Employment? Tech & Career Blogs. https://www.theiotacademy.co/blog/ai-impact-on-employment/
+38. Schirn, A. (2025, September 22). The Future of Jobs: How AI is Reshaping Work as We Know It. The ANSI Blog. https://blog.ansi.org/ansi/how-can-artificial-intelligence-impact-jobs/?ad_acct=0089&gad_source=1&gad_campaignid=21499316369&gbraid=0AAAAADvqK-VUGwu1NJiwaDPW7Zkoz-S9t&gclid=Cj0KCQjwgpzIBhCOARIsABZm7vG74l0t5k88TNMeoujkwUSs9P8ymWZm7_8Vn1LDuWKjQ0MYSmScY0IaAvDMEALw_wcB
