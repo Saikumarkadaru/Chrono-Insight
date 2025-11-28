@@ -1,0 +1,51 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,13,"{'neutral': 7, 'positive': 3, 'negative': 1}","employment, economic, skills_wages",1.2
+job,4,"{'neutral': 3, 'negative': 1}",employment,1.2
+weaver,3,{'neutral': 3},employment,0.0
+of,3,{'neutral': 2},economic,5.0
+insecurity,3,{'positive': 3},"employment, economic",0.0
+productivity,3,"{'positive': 2, 'neutral': 1}","productivity, skills_wages",30.0
+type,3,{'negative': 3},"skills_wages, employment",0.0
+year,3,{'negative': 3},"skills_wages, employment",0.0
+work,2,"{'neutral': 1, 'positive': 1}","economic, employment",6.0
+prosperity,2,{'neutral': 2},skills_wages,3.3
+world,2,{'positive': 2},productivity,30.0
+oecd,2,{'positive': 2},productivity,30.0
+bank,2,{'positive': 2},productivity,30.0
+he,2,{'neutral': 2},"employment, general",0.0
+image,2,{'neutral': 2},"employment, general",0.0
+clip,2,{'neutral': 2},economic,5.85
+ng,1,{'neutral': 1},education,0.0
+growth,1,{'neutral': 1},economic,4.0
+services,1,{'neutral': 1},economic,4.0
+intelligence,1,{'neutral': 1},employment,0.0
+nologie,1,{'neutral': 1},employment,0.0
+portion,1,{'neutral': 1},employment,0.0
+u.k.,1,{'neutral': 1},productivity,0.0
+japan,1,{'neutral': 1},productivity,0.0
+economy,1,{'neutral': 1},economic,4.2
+structure,1,{'neutral': 1},economic,4.2
+nurturi,1,{'neutral': 1},education,0.0
+protection,1,{'neutral': 1},education,0.0
+manufacturing,1,{'neutral': 1},economic,4.0
+landscape,1,{'neutral': 1},economic,4.3
+other,1,{'neutral': 1},economic,4.3
+occupation,1,{'neutral': 1},employment,0.0
+key,1,{'neutral': 1},economic,6.0
+takeaways,1,{'neutral': 1},economic,6.0
+the,1,{'neutral': 1},economic,6.0
+future,1,{'neutral': 1},economic,6.0
+operation,1,{'neutral': 1},economic,6.0
+revolution,1,{'positive': 1},employment,0.0
+education,1,{'neutral': 1},productivity,0.0
+",",1,{'neutral': 1},economic,4.0
+’s,1,{'neutral': 1},economic,0.0
+impact,1,{'neutral': 1},economic,0.0
+decline,1,{'neutral': 1},economic,4.0
+&,1,{'neutral': 1},economic,0.0
+paths,1,{'neutral': 1},economic,0.0
+forward,1,{'neutral': 1},economic,0.0
+gan,1,{'neutral': 1},skills_wages,0.0
+scale,1,{'neutral': 1},skills_wages,0.0
+boom,1,{'positive': 1},productivity,0.0
+income,1,{'positive': 1},productivity,0.0

@@ -1,0 +1,41 @@
+doc_id,sentence,pattern_type,matched_text,ai_similarity,impact_verbs,affected_entities,magnitudes,timeframes,sentence_length,domain,impact_type,primary_magnitude,sentiment_score
+741-Article Text-738-1-10-20080129,"Molecular biology has made so
+much progress in the study of bacteriaover the last decade that more andmore biochemists are moving up tomulticellular creatures and studyingsuch molecular mechanisms asembryological development, includinghow neurons grow and connect withother neurons.",TIMEFRAME,decade,0.4050989881632661,[],[],[],[],40,general,negative,,
+741-Article Text-738-1-10-20080129,"Another impact on the general pub-
+lic will come from household andcommercial robots.",ECONOMIC_IMPACT,impact,0.5704522247041357,[],[],[],[],15,economic,negative,,
+741-Article Text-738-1-10-20080129,"Because the question of the riseof the twenty-ﬁrst century artilectconcerns everyone, a wide range ofdisciplines should be represented atsuch a conference.",TIMEFRAME,century,0.4961673540603253,[],[],[],[],23,general,negative,,
+741-Article Text-738-1-10-20080129,"The 21st Century
+Artilect, Moral Dilemmas Concerning theUltra Intelligent Machine.",TIMEFRAME,21st Century,0.5202304493411173,[],"['moral', 'dilemmas', 'concern', 'theultra', 'intelligent', 'machine']",['21st'],[],13,general,negative,21st,
+741-Article Text-738-1-10-20080129,"The 21st Century
+Artilect, Moral Dilemmas Concerning theUltra Intelligent Machine.",TIMEFRAME,Century,0.5202304493411173,[],"['moral', 'dilemmas', 'concern', 'theultra', 'intelligent', 'machine']",['21st'],[],13,general,negative,21st,
+2b440821-en,"Such internal mobility can 
+help fill skill gaps in the organisation, while satis fying employees’ desire for career progression and new 
+challenges .  
+",SKILL_WAGE_IMPACT,skill,0.4132111608155047,[],[],[],[],28,skills_wages,negative,,
+2b440821-en,"Automatic Analysis of CVs and vacancies at the French and Flemish Public Employment 
+Services   
+Automatic CV Analysis at Pôle Emploi  
+The Fre nch PES, Pôle Emploi, uses a tool called “Automatic CV Analysis” ( Analyse Automatique de 
+CV – AACV ) which helps j obseeker s from the moment they  create a profile with Pôle Emploi .",JOB_IMPACT,create,0.4267318194099313,['create'],"['french', 'automatic', 'cv', 'analysis', 'fre', 'pes', 'pôle', 'emploi', '""', 'automatic', 'cv', 'analysis', 'analyse', 'automatique', 'de', '\n', 'cv', 'obseeker', 's', 'they', 'profile']",[],[],66,employment,positive,,
+2b440821-en,"Entelo does this by searching (scraping) 200 
+million candidate profiles from 50 Internet sources  (Chamorro -Premuzic et  al., 2016",ECONOMIC_IMPACT,million,0.41177645986237243,[],"['entelo', 'chamorro', 'al', '.']","['200', 'million', '50', '2016']",[],27,economic,negative,200,
+2b440821-en,"More specifically, Next Step uses a random forest model to estimate the probability that an individual 
+finds a job within the next six months.",TIMEFRAME,six months,0.48226772029785836,[],"['next', 'step']",['six'],[],27,employment,negative,six,
+2b440821-en,"More specifically, Next Step uses a random forest model to estimate the probability that an individual 
+finds a job within the next six months.",TIMEFRAME,months,0.48226772029785836,[],"['next', 'step']",['six'],[],27,employment,negative,six,
+2b440821-en,"How Pymetrics addresses bias  
+Pymetrics helps companies improve diversity and avoid bias (disparate impact).",ECONOMIC_IMPACT,impact,0.410976138886014,['improve'],"['company', 'diversity']",[],[],18,economic,positive,,
+2b440821-en,"Laurim 
+et al. (2021 [92]) show that, as long as fi nal decision -making power is still with the human being, recruiters 
+see no risks of AI replacing their jobs.",JOB_IMPACT,replacing,0.4104336169974761,[],"['al', '.', 'ai']","['2021', '92']",[],40,employment,negative,2021,
+2b440821-en,"[20]).15 
+A second potential source  of bias in AI algorithms can arise if the training data reflects past bias 
+in human decision -making.  ",SKILL_WAGE_IMPACT,training,0.4234976306933166,[],['ai'],['second'],[],29,skills_wages,negative,second,
+2b440821-en,"Such audits will consist of an “impartial 
+evaluation” conducted by an “independent auditor” that incl udes, at a minimum, an analysis of whether 
+the automated employment decision tool has resulted in a disparate impact based on gender, race or 
+national origin.  ",ECONOMIC_IMPACT,impact,0.43184007080428555,['automate'],[],[],[],53,economic,negative,,
+2b440821-en,Are there regular impact evaluations of the AI technologies used by PES agenc ies?,ECONOMIC_IMPACT,impact,0.4155857624634573,[],"['ai', 'pes']",[],[],15,economic,negative,,
+2b440821-en,• What else do you measure to monitor the impact of the technology?,ECONOMIC_IMPACT,impact,0.44035711029304675,[],[],[],[],14,economic,negative,,
+2b440821-en,"Information and training for PE S caseworkers  
+Q17.",SKILL_WAGE_IMPACT,training,0.4201355725138956,[],"['pe', 's', 'q17']",[],[],10,skills_wages,negative,,

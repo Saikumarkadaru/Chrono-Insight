@@ -1,0 +1,36 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,3,{'negative': 3},"employment, skills_wages, economic",2021.0
+cv,3,{'positive': 1},employment,0.0
+moral,2,{'negative': 2},general,0.0
+s,2,"{'positive': 1, 'negative': 1}","employment, skills_wages",0.0
+al,2,{'negative': 2},"economic, employment",1110.5
+dilemmas,2,{'negative': 2},general,0.0
+.,2,{'negative': 2},"economic, employment",1110.5
+next,2,{'negative': 2},employment,0.0
+step,2,{'negative': 2},employment,0.0
+pes,2,"{'positive': 1, 'negative': 1}","employment, economic",0.0
+analysis,2,{'positive': 1},employment,0.0
+automatic,2,{'positive': 1},employment,0.0
+machine,2,{'negative': 2},general,0.0
+intelligent,2,{'negative': 2},general,0.0
+theultra,2,{'negative': 2},general,0.0
+concern,2,{'negative': 2},general,0.0
+profile,1,{'positive': 1},employment,0.0
+diversity,1,{'positive': 1},economic,0.0
+company,1,{'positive': 1},economic,0.0
+pe,1,{'negative': 1},skills_wages,0.0
+chamorro,1,{'negative': 1},economic,200.0
+entelo,1,{'negative': 1},economic,200.0
+de,1,{'positive': 1},employment,0.0
+they,1,{'positive': 1},employment,0.0
+obseeker,1,{'positive': 1},employment,0.0
+"
+",1,{'positive': 1},employment,0.0
+automatique,1,{'positive': 1},employment,0.0
+analyse,1,{'positive': 1},employment,0.0
+"""",1,{'positive': 1},employment,0.0
+emploi,1,{'positive': 1},employment,0.0
+pôle,1,{'positive': 1},employment,0.0
+fre,1,{'positive': 1},employment,0.0
+french,1,{'positive': 1},employment,0.0
+q17,1,{'negative': 1},skills_wages,0.0

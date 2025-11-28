@@ -1,0 +1,272 @@
+doc_id,sentence,pattern_type,matched_text,ai_similarity,impact_verbs,affected_entities,magnitudes,timeframes,sentence_length,domain,impact_type,primary_magnitude,sentiment_score
+AIart,"In this paper, we review some of these harms which
+include reputational damage, economic loss, plagiarism and copy-
+right infringement.",ECONOMIC_IMPACT,economic,0.4082364830694341,[],[],[],[],26,economic,negative,,0.6519978642463684
+AIart,AI Art and its Impact on Artists.,ECONOMIC_IMPACT,Impact,0.4206607208929541,[],"['ai', 'art']",[],[],8,economic,neutral,,0.696433961391449
+AIart,"The dataset consists of 5.85 billion CLIP-filtered image-text
+pairs, of which 2.32B contain English language text.",ECONOMIC_IMPACT,5.85 billion,0.4289917173237339,[],['clip'],"['5.85', 'billion']",[],23,economic,neutral,5.85,0.9101386666297913
+AIart,"The dataset consists of 5.85 billion CLIP-filtered image-text
+pairs, of which 2.32B contain English language text.",ECONOMIC_IMPACT,billion,0.4289917173237339,[],['clip'],"['5.85', 'billion']",[],23,economic,neutral,5.85,0.9101386666297913
+AIart,"This latent space is
+learned during the model’s training process.",SKILL_WAGE_IMPACT,training,0.4351538964590385,[],[],[],[],13,skills_wages,neutral,,0.9109334945678711
+AIart,"Otomo notes that he created these images by drawing inspiration
+from his own teenage years, thinking about a rebuilding world,
+foreign political influence, and an uncertain future after World War
+II",JOB_IMPACT,created,0.4538136038077833,['create'],"['he', 'image']",[],[],37,employment,neutral,,0.8534803986549377
+AIart,"Otomo notes that he created these images by drawing inspiration
+from his own teenage years, thinking about a rebuilding world,
+foreign political influence, and an uncertain future after World War
+II",TIMEFRAME,years,0.4538136038077833,['create'],"['he', 'image']",[],[],37,general,neutral,,0.8534803986549377
+AIart,"Stability AI CEO Emad Mosque has even accused artists of
+wanting to have a “monopoly on visual communications” and “skill
+segregation”7.",SKILL_WAGE_IMPACT,skill,0.46916633520787326,[],"['stability', 'ai', 'emad', 'mosque']",[],[],27,skills_wages,negative,,0.5700049996376038
+AIart,"This type of work reduces hard earned years of skill and artistic eye
+to simple cleanup work, with no agency for creative decisions.",JOB_IMPACT,reduces,0.4808880182881732,['reduce'],"['type', 'year']",[],[],26,employment,negative,,0.801645040512085
+AIart,"This type of work reduces hard earned years of skill and artistic eye
+to simple cleanup work, with no agency for creative decisions.",TIMEFRAME,years,0.4808880182881732,['reduce'],"['type', 'year']",[],[],26,skills_wages,negative,,0.801645040512085
+AIart,"This type of work reduces hard earned years of skill and artistic eye
+to simple cleanup work, with no agency for creative decisions.",SKILL_WAGE_IMPACT,skill,0.4808880182881732,['reduce'],"['type', 'year']",[],[],26,skills_wages,negative,,0.801645040512085
+AIart,"In this paper, we have reviewed the chilling impact of image gener-
+ators on the art community, ranging from economic loss, to reputa-
+tional damage and stereotyping.",ECONOMIC_IMPACT,impact,0.4286726429911332,[],[],[],[],33,economic,negative,,0.6770173907279968
+AIart,"In this paper, we have reviewed the chilling impact of image gener-
+ators on the art community, ranging from economic loss, to reputa-
+tional damage and stereotyping.",ECONOMIC_IMPACT,economic,0.4286726429911332,[],[],[],[],33,economic,negative,,0.6770173907279968
+AIart,"Large Scale GAN
+Training for High Fidelity Natural Image Synthesis.",SKILL_WAGE_IMPACT,Training,0.5309810103478598,[],"['large', 'scale', 'gan']",[],[],12,skills_wages,neutral,,0.9057191014289856
+AIart,"Extracting
+Training Data from Diffusion Models.",SKILL_WAGE_IMPACT,Training,0.4544036252398676,[],[],[],[],8,skills_wages,neutral,,0.9202632308006287
+AIart,"Generative
+AI’s Impact & Paths Forward.",ECONOMIC_IMPACT,Impact,0.42268070036489347,[],"['ai', '’s', 'impact', '&', 'paths', 'forward']",[],[],9,economic,neutral,,0.6802768111228943
+AIart,"LAION-5B:
+An open large-scale dataset for training next generation image-text models.
+",SKILL_WAGE_IMPACT,training,0.4152258120434047,[],[],[],[],19,skills_wages,neutral,,0.7652159333229065
+AIfuture,"From early mechanize looms displacing artisan weavers to computers reshaping 20th century offices, 
+technological progress continually changes occupationa l structures.",JOB_IMPACT,displacing,0.4172170139577136,['displace'],['weaver'],['20th'],[],23,employment,neutral,20th,0.8590515851974487
+AIfuture,"From early mechanize looms displacing artisan weavers to computers reshaping 20th century offices, 
+technological progress continually changes occupationa l structures.",TIMEFRAME,20th century,0.4172170139577136,['displace'],['weaver'],['20th'],[],23,employment,neutral,20th,0.8590515851974487
+AIfuture,"From early mechanize looms displacing artisan weavers to computers reshaping 20th century offices, 
+technological progress continually changes occupationa l structures.",TIMEFRAME,century,0.4172170139577136,['displace'],['weaver'],['20th'],[],23,employment,neutral,20th,0.8590515851974487
+AIfuture,"Current patterns continue this traje ctory with automated factories and supply chains 
+reducing production jobs, especially in developed countries.",JOB_IMPACT,reducing,0.4667953309736432,"['automate', 'reduce']",['job'],[],[],22,employment,negative,,0.6835349798202515
+AIfuture,"Government policies can ease sectoral labor shifts via pr ograms 
+assisting displaced manufacturing workers transition towards growing industries.",JOB_IMPACT,displaced,0.4888456287641318,['displace'],[],[],[],20,employment,neutral,,0.5834119319915771
+AIfuture,"Productivity booms from human -machine 
+collaboration should boost incomes and living standards glob ally.",DEPENDENCY_ANALYSIS,N/A,0.469730702659144,['boost'],"['boom', 'income']",[],[],16,productivity,positive,,0.8464990258216858
+AIfuture,"1.2 AI Will Cause Job Shifting, Not Widespread Job Losses  
+Amidst the rapid advances in artificial intelligence and machine learning, a persistent question 
+looms – will AI take away more jobs than it creates?",JOB_IMPACT,creates,0.4461782183329817,['create'],"['ai', 'will', 'cause', 'job', 'shifting', 'ai', 'it']",['1.2'],[],39,employment,neutral,1.2,0.7568842768669128
+AIfuture,"Or can the technology generate new human 
+employment opportunities to offset any displaced roles?",JOB_IMPACT,generate,0.4873206750260917,['displace'],[],[],[],16,employment,neutral,,0.8221393823623657
+AIfuture,"Or can the technology generate new human 
+employment opportunities to offset any displaced roles?",JOB_IMPACT,displaced,0.4873206750260917,['displace'],[],[],[],16,employment,neutral,,0.8221393823623657
+AIfuture,"Adoption of data analytics, intelligent algorithms, robotics and 
+complementary innovations significantly improves effic iency in nearly every economic sector.",ECONOMIC_IMPACT,economic,0.4539779725072791,['improve'],"['adoption', 'iency']",[],[],23,economic,positive,,0.8447485566139221
+AIfuture,"Economic research reveals a strong positive correlation between productivity growth and net job creation 
+across countries and industries.",ECONOMIC_IMPACT,Economic,0.5622648244098405,[],[],[],[],20,economic,positive,,0.8765054941177368
+AIfuture,"Such added output requires 
+corres ponding labor input, whether in existing roles enhanced by AI or net new AI -enabled jobs.  
+",DEPENDENCY_ANALYSIS,N/A,0.45761119731399447,['enhance'],"['ai', 'ai']",[],[],25,productivity,neutral,,0.8442124128341675
+AIfuture,"Equally important are cultivation of new AI -enabled industries and business models creating fresh 
+employment categories.",JOB_IMPACT,creating,0.46189742984494225,['create'],"['ai', 'category']",[],[],18,employment,positive,,0.722954511642456
+AIfuture,"Further new 
+occupations will materialize as still nascent AI use cases like autonomous transportation, personalized 
+healthcare and hyper -efficient green energy mature in coming years.  
+",TIMEFRAME,years,0.44857676469581237,[],['ai'],[],[],30,employment,positive,,0.5331820249557495
+AIfuture,"Retraining, entrepreneurship incentives, transparent 
+communication and compassionate transitions assist ance all help populations navigate existing roles 
+declining due to automation towards emerging AI -powered industries hungry for human talent.",DEPENDENCY_ANALYSIS,N/A,0.40341370652742337,['decline'],['ai'],[],[],34,skills_wages,neutral,,0.6644313335418701
+AIfuture,"By driving business 
+expansion, higher incomes, and new economic opportunities, efficiency gains counterintuitively 
+boost employment levels.",ECONOMIC_IMPACT,economic,0.43434869287683464,['boost'],"['gain', 'level']",[],[],22,economic,positive,,0.6390354633331299
+AIfuture,"Statistics from the OECD and World Bank record steady per capita productivity increases across most large 
+economies over the past 30 years.",TIMEFRAME,30 years,0.46896361024837935,['increase'],"['oecd', 'world', 'bank', 'productivity']",['30'],[],24,productivity,positive,30,0.7713926434516907
+AIfuture,"Statistics from the OECD and World Bank record steady per capita productivity increases across most large 
+economies over the past 30 years.",TIMEFRAME,years,0.46896361024837935,['increase'],"['oecd', 'world', 'bank', 'productivity']",['30'],[],24,productivity,positive,30,0.7713926434516907
+AIfuture,"Higher disposable earnings get spent across the economy, further 
+increasing output and employment demand.",ECONOMIC_IMPACT,economy,0.5023769978764208,['increase'],[],[],[],17,economic,neutral,,0.5360098481178284
+AIfuture,"Higher disposable earnings get spent across the economy, further 
+increasing output and employment demand.",PRODUCTIVITY_IMPACT,increasing output,0.5023769978764208,['increase'],[],[],[],17,productivity,neutral,,0.5360098481178284
+AIfuture,"While a minor fraction against the backdrop of over 200 million new jobs, such populations warrant 
+focused policy attention.  
+",ECONOMIC_IMPACT,200 million,0.4036334843105315,[],[],"['200', 'million']",[],23,economic,neutral,200,0.6891518831253052
+AIfuture,"While a minor fraction against the backdrop of over 200 million new jobs, such populations warrant 
+focused policy attention.  
+",ECONOMIC_IMPACT,million,0.4036334843105315,[],[],"['200', 'million']",[],23,economic,neutral,200,0.6891518831253052
+AIfuture,"With thoughtful policies facilitati ng workforce transitions, technological progress promises 
+decreasing economic insecurity for displaced workers.",ECONOMIC_IMPACT,economic,0.5320232073749099,"['decrease', 'displace']",['insecurity'],[],[],19,economic,positive,,0.6084304451942444
+AIfuture,"With thoughtful policies facilitati ng workforce transitions, technological progress promises 
+decreasing economic insecurity for displaced workers.",JOB_IMPACT,displaced,0.5320232073749099,"['decrease', 'displace']",['insecurity'],[],[],19,employment,positive,,0.6084304451942444
+AIfuture,"With thoughtful policies facilitati ng workforce transitions, technological progress promises 
+decreasing economic insecurity for displaced workers.",JOB_IMPACT,displaced workers,0.5320232073749099,"['decrease', 'displace']",['insecurity'],[],[],19,employment,positive,,0.6084304451942444
+AIfuture,"The considerable increase in efficiency can be attributed to 
+substantial financial investments in cutting -edge manufacturing processes and digital infrastructure. 
+",PRODUCTIVITY_IMPACT,increase in efficiency,0.4284110363842832,['increase'],[],[],[],23,productivity,positive,,0.7792431116104126
+AIfuture,"Innovative educational policies aid in the development of creative and technical skill sets that are less 
+susceptible to automation.",SKILL_WAGE_IMPACT,skill,0.4692622406534029,[],[],[],[],21,skills_wages,positive,,0.6253322958946228
+AIfuture,"Furthermore, social welfare safeguards, such as transitory unemployment benefits, serve to avert the 
+esca lation of income gaps into persistent financial hardship.",SKILL_WAGE_IMPACT,income,0.5010250854595223,[],[],[],[],27,skills_wages,neutral,,0.7414534687995911
+AIfuture,"Despite widespread automation of tasks and processes, average annual work time 
+per employee decreased substantially without triggering mass unemployment.",DEPENDENCY_ANALYSIS,N/A,0.4255763268955013,['decrease'],['time'],[],[],22,employment,neutral,,0.6265099048614502
+AIfuture,"Data shows split outcomes between high 
+income knowledge workers able to leverage automation for personal time abundance, while lower income 
+manual laborers simply face wage stagnation or job losses from the same technologies.",SKILL_WAGE_IMPACT,income,0.4609297845483351,[],[],[],[],37,skills_wages,neutral,,0.5221546292304993
+AIfuture,"Data shows split outcomes between high 
+income knowledge workers able to leverage automation for personal time abundance, while lower income 
+manual laborers simply face wage stagnation or job losses from the same technologies.",SKILL_WAGE_IMPACT,income,0.4609297845483351,[],[],[],[],37,skills_wages,neutral,,0.5221546292304993
+AIfuture,"Data shows split outcomes between high 
+income knowledge workers able to leverage automation for personal time abundance, while lower income 
+manual laborers simply face wage stagnation or job losses from the same technologies.",SKILL_WAGE_IMPACT,wage,0.4609297845483351,[],[],[],[],37,skills_wages,neutral,,0.5221546292304993
+AIfuture,"Rather th an technologies eliminating jobs, prudent 
+implementation can usher an era with more people working less to support rising living standards – the 
+ultimate productivity dividend.  
+ 
+  ",JOB_IMPACT,eliminating,0.40206117984317086,['eliminate'],['job'],[],[],32,employment,neutral,,0.6603001952171326
+AIfuture,"Rather th an technologies eliminating jobs, prudent 
+implementation can usher an era with more people working less to support rising living standards – the 
+ultimate productivity dividend.  
+ 
+  ",JOB_IMPACT,eliminating jobs,0.40206117984317086,['eliminate'],['job'],[],[],32,employment,neutral,,0.6603001952171326
+AIfuture,"Besides reducing weekly hours, productivity gains may also facilitate sabbaticals, long -term paid leave, 
+mini -retirements and other prolonged time away from work for personal development.",JOB_IMPACT,reducing,0.42274333853235074,['reduce'],['hour'],[],[],31,employment,neutral,,0.5807355046272278
+AIfuture,"To prevent such abundance being hoarded by privileged groups alone, policy interventions like 
+educational upgrades, entrepreneurship incentives and basic income schemes can empower displaced 
+workers.",SKILL_WAGE_IMPACT,income,0.41145664730491466,['displace'],[],[],[],30,skills_wages,neutral,,0.7879661321640015
+AIfuture,"To prevent such abundance being hoarded by privileged groups alone, policy interventions like 
+educational upgrades, entrepreneurship incentives and basic income schemes can empower displaced 
+workers.",JOB_IMPACT,displaced,0.41145664730491466,['displace'],[],[],[],30,employment,neutral,,0.7879661321640015
+AIfuture,"3.3 Income and Wealth Inequality Issues  
+While artificial intelligence and automation offer considerable potential for boosting prosperity, experts 
+widely recognize these technologies could also worsen income and wealth gaps absent thoughtful policy 
+responses.",SKILL_WAGE_IMPACT,Income,0.4179498434876989,['boost'],['prosperity'],['3.3'],[],38,skills_wages,neutral,3.3,0.5807253122329712
+AIfuture,"3.3 Income and Wealth Inequality Issues  
+While artificial intelligence and automation offer considerable potential for boosting prosperity, experts 
+widely recognize these technologies could also worsen income and wealth gaps absent thoughtful policy 
+responses.",SKILL_WAGE_IMPACT,income,0.4179498434876989,['boost'],['prosperity'],['3.3'],[],38,skills_wages,neutral,3.3,0.5807253122329712
+AIfuture,"Economic data reveals incomes in many advanced economies tilting towards the upper income strata 
+over the past couple decades, while large subsets of middle and working class groups struggle with 
+stagnant real wages.",ECONOMIC_IMPACT,Economic,0.4660964435131771,[],[],[],[],37,economic,neutral,,0.7145988941192627
+AIfuture,"Economic data reveals incomes in many advanced economies tilting towards the upper income strata 
+over the past couple decades, while large subsets of middle and working class groups struggle with 
+stagnant real wages.",SKILL_WAGE_IMPACT,income,0.4660964435131771,[],[],[],[],37,skills_wages,neutral,,0.7145988941192627
+AIfuture,"Tax and welfare policies likewise hold redistributive powers by funding worker transition support programs 
+and guaranteeing basic economic security through minimum income schemes or universal basic assets. 
+",ECONOMIC_IMPACT,economic,0.4491881391853857,[],[],[],[],30,economic,neutral,,0.8290391564369202
+AIfuture,"Tax and welfare policies likewise hold redistributive powers by funding worker transition support programs 
+and guaranteeing basic economic security through minimum income schemes or universal basic assets. 
+",SKILL_WAGE_IMPACT,income,0.4491881391853857,[],[],[],[],30,skills_wages,neutral,,0.8290391564369202
+AIfuture,"With thoughtful regulations, worker empowerment m odels and social welfare protections, productivity 
+gains should lift all boats – not just balloon top income strata in winner -take -most dynamics.",SKILL_WAGE_IMPACT,income,0.4875594244913608,[],[],[],[],33,skills_wages,positive,,0.5839215517044067
+AIfuture,"4. SECTORAL SHIFTS  
+4.1 Decline of Manufacturing, Growth of Services  
+Historic labor market evolutions reveal economic transformations where new technological 
+innovations and industrial bases eclipse legacy ones.",ECONOMIC_IMPACT,economic,0.454025676416407,['decline'],"['decline', 'of', 'manufacturing', ',', 'growth', 'of', 'services']","['4', '4.1']",[],33,economic,neutral,4,0.8357766270637512
+AIfuture,"For example, agriculture employed over 
+70% of developed world workers in the mid -19th century before machinery an d productivity 
+gains shrunk its labor share to just 2 -3% today.",TIMEFRAME,-19th century,0.49791264422063164,[],[],"['70', '-19th', '2', '-3']",[],36,productivity,neutral,70,0.7341935038566589
+AIfuture,"For example, agriculture employed over 
+70% of developed world workers in the mid -19th century before machinery an d productivity 
+gains shrunk its labor share to just 2 -3% today.",TIMEFRAME,century,0.49791264422063164,[],[],"['70', '-19th', '2', '-3']",[],36,productivity,neutral,70,0.7341935038566589
+AIfuture,"This pattern 
+continues today as artificial intelligence and automation tech nologies displace significant 
+portions of manufacturing roles while expanding many services sectors.  
+",JOB_IMPACT,displace,0.4267405965494534,['displace'],"['intelligence', 'nologie', 'portion']",[],[],26,employment,neutral,,0.8406945466995239
+AIfuture,"Similar declines unregister in the U.K., Japan and 
+other mature industrialized countries as automation and offshoring cut labor inputs for given units of 
+industrial output.",DEPENDENCY_ANALYSIS,N/A,0.4234580927345632,['decline'],"['u.k.', 'japan']",[],[],29,productivity,neutral,,0.5584660172462463
+AIfuture,"Concurrent with manufacturing contractions in most regions, service sector jobs expanded briskly, today 
+accounting for 80% or more of advanced economy employment.",ECONOMIC_IMPACT,economy,0.430970414834327,[],[],['80'],[],27,economic,positive,80,0.7964804172515869
+AIfuture,"Government leadership can ease transitions via vocational retraining programs, job search and relocation 
+support, wage insurance for those taking pay cuts and other interventions cushioning structural change. 
+",SKILL_WAGE_IMPACT,wage,0.4559168948068522,[],[],[],[],32,skills_wages,neutral,,0.6768251657485962
+AIfuture,"Industry partnerships between legacy manufactur ing firms and growing services companies offer one 
+path to channel more displaced workers successfully across sectors.",JOB_IMPACT,displaced,0.47080881724895307,['displace'],[],['one'],[],24,employment,neutral,one,0.7918989658355713
+AIfuture,"Industry partnerships between legacy manufactur ing firms and growing services companies offer one 
+path to channel more displaced workers successfully across sectors.",JOB_IMPACT,displaced workers,0.47080881724895307,['displace'],[],['one'],[],24,employment,neutral,one,0.7918989658355713
+AIfuture,"4.2 Relocation to Service -Intensive Economies  
+As artificial intelligence and sophisticated automation transform economic structures, employment and 
+output shifts decisively towards service -oriented activities less vulnerable to technological displacement. 
+",ECONOMIC_IMPACT,economic,0.40805358895721716,['transform'],"['economy', 'structure']",['4.2'],[],34,economic,neutral,4.2,0.8270683884620667
+AIfuture,"Signs point to the nation’s 
+economic future depending more on services export continuation than unfinished aspirations aro und 
+domestic manufacturing capacity expansion.  
+",ECONOMIC_IMPACT,economic,0.4020749910620464,[],[],[],[],27,economic,neutral,,0.8027225732803345
+AIfuture,"However, simply waiting for market dynamics to direct economic transitions absent other interventions 
+risks inequities and societal rifts.",ECONOMIC_IMPACT,economic,0.40665755163090866,[],[],[],[],21,economic,negative,,0.5419937372207642
+AIfuture,"Policy leaders face imperative priorities like upgrading education systems, 
+expanding digital infrastructure, nurturi ng entrepreneurship and enhancing social welfare protection.",DEPENDENCY_ANALYSIS,N/A,0.5012332479984971,['enhance'],"['nurturi', 'ng', 'protection']",[],[],24,education,neutral,,0.5419005155563354
+AIfuture,"4.3 Examples of Manufacturing VS Services Jobs  
+Ongoing structural economic shifts driven by technological change continue transforming the 
+employment landscape with certain categories of jobs growing while others decline.",ECONOMIC_IMPACT,economic,0.42665952719588945,"['transform', 'decline']","['landscape', 'other']",['4.3'],[],32,economic,neutral,4.3,0.8172128200531006
+AIfuture,"Common attributes center on manual work environments, routine 
+technical tasks and middle skill levels from high school and some vocational education.  
+",SKILL_WAGE_IMPACT,skill,0.5997552351419915,[],[],[],[],25,skills_wages,neutral,,0.9149757027626038
+AIfuture,"Common attributes include interpersonal interactions, creative problem solving and high skill levels 
+from tertiary college and vocational qualifications.  
+  ",SKILL_WAGE_IMPACT,skill,0.5254710774581415,[],[],[],[],22,skills_wages,neutral,,0.5186957716941833
+AIfuture,"While production occupations decline due to physical automation, 
+human -centric services roles resist through continued deman d for distinctly human skills like creativity, 
+complex communications and strategy.",DEPENDENCY_ANALYSIS,N/A,0.494232063687033,['decline'],['occupation'],[],[],32,employment,neutral,,0.5808504819869995
+AIfuture,"For 
+example, administrative assistants and offic e clerks could undertake hybrid training programs to transition 
+into project coordination, IT support technician or technical writing jobs.",SKILL_WAGE_IMPACT,training,0.43920391984104223,[],[],[],[],30,skills_wages,neutral,,0.8896389007568359
+AIfuture,"Policymakers play a key role fostering adaptive  postures through regulatory reforms protecting gig 
+economy livelihoods.",ECONOMIC_IMPACT,economy,0.4221776871231997,[],[],[],[],18,economic,neutral,,0.5880414843559265
+AIfuture,"Governme nts need funding for career guidance services, 
+training incentives and safety net strengthening.",SKILL_WAGE_IMPACT,training,0.4959274823536835,[],[],[],[],17,skills_wages,neutral,,0.790002703666687
+AIfuture,"With combined initiatives, the rise of automation emerges as a skill -upgrading impetus enriching human 
+capacities rather than rending livelihoods.",SKILL_WAGE_IMPACT,skill,0.40824525932734995,[],[],[],[],23,skills_wages,positive,,0.5535557270050049
+AIfuture,"Fifth, running comprehensive pilot programs before high -stakes AI deployments allows fine -tuning 
+systems to complement rather than replace contingent workforces.",JOB_IMPACT,replace,0.4055606023560957,[],['ai'],['Fifth'],[],24,employment,neutral,Fifth,0.7330465912818909
+AIfuture,"As artificial intelligence adoption accelerates across economic sectors, disruptive workforce transitions 
+loom even if automation promises net job creation rather than losses eventually.",ECONOMIC_IMPACT,economic,0.45637673188833716,[],[],[],[],26,economic,neutral,,0.7247501611709595
+AIfuture,"Strategic interventions targeting education and training, labor regulation reforms, enhanced social safety 
+nets and R&D funding incentives could profoundly shape how prosperity concentrates or propaga tes 
+inclusively.  
+",SKILL_WAGE_IMPACT,training,0.4269403386061189,['enhance'],[],[],[],33,skills_wages,neutral,,0.7695069909095764
+AIfuture,"Updating archaic labor regulations also enables economic modernization for the AI -powered future of 
+work.",ECONOMIC_IMPACT,economic,0.412865422105515,[],['ai'],[],[],17,economic,neutral,,0.6744548678398132
+AIfuture,"Outdated constructs 
+reflect obsolete 20th century employment contractual norms rather than modern realities.  
+",TIMEFRAME,20th century,0.4514151642026282,[],[],['20th'],[],16,employment,negative,20th,0.6717477440834045
+AIfuture,"Outdated constructs 
+reflect obsolete 20th century employment contractual norms rather than modern realities.  
+",TIMEFRAME,century,0.4514151642026282,[],[],['20th'],[],16,employment,negative,20th,0.6717477440834045
+AIfuture,"Policy options like wage insurance compensate income gaps for those taking 
+lower -paying jobs after displacement.",SKILL_WAGE_IMPACT,wage,0.4065429577978703,[],[],[],[],18,skills_wages,neutral,,0.7104209065437317
+AIfuture,"Policy options like wage insurance compensate income gaps for those taking 
+lower -paying jobs after displacement.",SKILL_WAGE_IMPACT,income,0.4065429577978703,[],[],[],[],18,skills_wages,neutral,,0.7104209065437317
+AIfuture,"Short -term basi c income funding tides over families through 
+retraining and job searches.",SKILL_WAGE_IMPACT,income,0.4981765251567727,[],[],[],[],16,skills_wages,neutral,,0.906192421913147
+AIfuture,"6. CONCLUSION  
+6.1 Key Takeaways on Job Shifting and the Future of Work  
+As artificial intelligence and sophisticated automation technologies integrate across economic sectors, 
+transforming enterprise operations and labor market dynamics, three overriding takeaways crystallize:  
+",ECONOMIC_IMPACT,economic,0.4574163781810412,['transform'],"['key', 'takeaways', 'the', 'future', 'of', 'work', 'operation']","['6', '6.1', 'three']",[],43,economic,neutral,6,0.842228353023529
+AIfuture,"With prudent measures assisting worker transitions across occupations, the coming decade can 
+witness smooth employment shifts rather than tumultuous labor substitution.",TIMEFRAME,decade,0.5049331489187873,[],[],[],[],24,employment,positive,,0.53815096616745
+AIfuture,"With sufficient foresight, the AI 
+revolution can eliminate mundane work for better, more meaningful vocations raising prosperity across 
+communities.",JOB_IMPACT,eliminate,0.4135754662091837,['eliminate'],"['ai', 'revolution', 'work']",[],[],24,employment,positive,,0.8044260740280151
+AIfuture,"Rather than dwell anxiously on legendary dystopian projections of mass “technological unemployment”, 
+people should recognize current breakthroughs as historic opportunities to transform education, reinvent 
+careers and redefine productivity for societal enh ancement.",DEPENDENCY_ANALYSIS,N/A,0.4308050774368137,['transform'],['education'],[],[],39,productivity,neutral,,0.6251343488693237
+AIfuture,"The economic solutions exist through 
+responsible policymaking.",ECONOMIC_IMPACT,economic,0.4294659018969059,[],[],[],[],9,economic,neutral,,0.6361046433448792
+AIfuture,"Even if automation boosts net productivity and prosp erity overall, certain groups still endure acute 
+displacement hardships absent income protections between lost manufacturing jobs to uncertain 
+reemployment futures.",SKILL_WAGE_IMPACT,income,0.4426110946249602,['boost'],"['automation', 'productivity']",[],[],32,skills_wages,neutral,,0.5447598099708557
+AIfuture,"Even higher skill 
+programming, financial analysis, paralegal evaluation and medical diagnosis roles likely endure skillse t 
+overhauls if not outright substitutions.  
+",SKILL_WAGE_IMPACT,skill,0.4230771803416337,[],[],[],[],27,skills_wages,neutral,,0.6429067254066467
+AIfuture,"Fixed career ladders no longer serve individual and family economic security 
+like before amidst fast -changing employe r landscapes.",ECONOMIC_IMPACT,economic,0.45562623932409557,[],[],[],[],21,economic,negative,,0.6987794041633606
+AIfuture,"And even amidst mass restructuring, strengthened social safety net guarantees through minimum wage 
+increases, health insurance delinking from employers and basic income funding offer fallback options 
+without forcing dire trade -offs.",SKILL_WAGE_IMPACT,wage,0.4904411207889588,['increase'],[],[],[],36,skills_wages,neutral,,0.7363653779029846
+AIfuture,"And even amidst mass restructuring, strengthened social safety net guarantees through minimum wage 
+increases, health insurance delinking from employers and basic income funding offer fallback options 
+without forcing dire trade -offs.",SKILL_WAGE_IMPACT,income,0.4904411207889588,['increase'],[],[],[],36,skills_wages,neutral,,0.7363653779029846
+AIfuture,"The impact of artificial intelligence on employment: the role of 
+virtual agglomeration.",ECONOMIC_IMPACT,impact,0.5184992812993615,[],[],[],[],15,economic,neutral,,0.8850929141044617

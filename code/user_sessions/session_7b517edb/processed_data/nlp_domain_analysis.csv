@@ -1,0 +1,14 @@
+domain,impact_type,insight_count,avg_magnitude,avg_ai_similarity,common_verbs
+general,neutral,8,0.0,0.48684338907259783,"increase, automate"
+general,positive,4,0.0,0.4316878153027599,"increase, enhance"
+economic,neutral,28,646.5631313131313,0.45037389313676546,"create, automate, transform"
+economic,positive,22,179.01666666666668,0.42804055482579156,"create, improve, transform"
+economic,negative,6,0.0,0.46647098751939425,[]
+productivity,neutral,1,59.0,0.42047720117230614,automate
+productivity,positive,2,0.0,0.4237932157941965,"improve, increase, enhance"
+skills_wages,neutral,8,2013.0,0.4303247335016147,improve
+skills_wages,positive,2,0.0,0.4176010134352906,[]
+employment,neutral,19,1364.4382716049383,0.44472197943574276,"create, automate, reduce"
+employment,negative,2,0.0,0.41347655466905253,[]
+employment,positive,6,5.4,0.4107569017527091,"create, transform, enhance"
+policy,neutral,1,0.0,0.422756175917272,decrease

@@ -1,0 +1,107 @@
+doc_id,sentence,pattern_type,matched_text,ai_similarity,impact_verbs,affected_entities,magnitudes,timeframes,sentence_length,domain,impact_type,primary_magnitude,sentiment_score
+w24001,"In essence, the forecasters of future company wealth and 
+the measurers of historical economic performance show the greatest disagreement during times of technological change.",ECONOMIC_IMPACT,economic,0.5247990437453106,[],[],[],[],27,economic,neutral,,0.6392925977706909
+w24001,"3 
+ Although not at the level of professional human performance yet, Facebook’s AI 
+Research team recently improved upon the best machine language translation algorithms 
+available using convolutional neural net sequence prediction techniques (Gehring et al. , 
+2017) .",DEPENDENCY_ANALYSIS,N/A,0.40981338717342786,['improve'],"['facebook', '’s', 'ai', '\n', 'research', 'team']","['3', '2017']",[],47,productivity,positive,3,0.6307260990142822
+w24001,"B ut they can also  change the economic 
+landscape, creating new opportunities for business value creation and cost reduction.",ECONOMIC_IMPACT,economic,0.45972361215382807,['create'],['opportunity'],[],[],23,economic,positive,,0.6684879064559937
+w24001,"B ut they can also  change the economic 
+landscape, creating new opportunities for business value creation and cost reduction.",JOB_IMPACT,creating,0.45972361215382807,['create'],['opportunity'],[],[],23,employment,positive,,0.6684879064559937
+w24001,"In other words, t he 
+productivity growth of the past decade tells us little about p roductivity growth for the 
+coming decade.",TIMEFRAME,decade,0.42219890013681266,[],[],[],[],26,productivity,neutral,,0.6721906661987305
+w24001,"In other words, t he 
+productivity growth of the past decade tells us little about p roductivity growth for the 
+coming decade.",TIMEFRAME,decade,0.42219890013681266,[],[],[],[],26,productivity,neutral,,0.6721906661987305
+w24001,"Taking the estimate at face value, one percent higher annual labor productivity growth in the prior decade (around an unconditional mean of about two percent per year) corresponds to less than 0.1 percent fas ter growth in the 
+following decade.",TIMEFRAME,decade,0.41783658758995007,[],[],"['one', 'two', '0.1']",[],45,productivity,neutral,one,0.7467020750045776
+w24001,"Taking the estimate at face value, one percent higher annual labor productivity growth in the prior decade (around an unconditional mean of about two percent per year) corresponds to less than 0.1 percent fas ter growth in the 
+following decade.",TIMEFRAME,year,0.41783658758995007,[],[],"['one', 'two', '0.1']",[],45,productivity,neutral,one,0.7467020750045776
+w24001,"Taking the estimate at face value, one percent higher annual labor productivity growth in the prior decade (around an unconditional mean of about two percent per year) corresponds to less than 0.1 percent fas ter growth in the 
+following decade.",TIMEFRAME,decade,0.41783658758995007,[],[],"['one', 'two', '0.1']",[],45,productivity,neutral,one,0.7467020750045776
+w24001,"Total nonfarm private employment in mid -2016 was 122 million. 
+",ECONOMIC_IMPACT,122 million,0.4851287499102293,[],[],"['-2016', '122', 'million']",[],12,economic,neutral,-2016,0.9147446155548096
+w24001,"Total nonfarm private employment in mid -2016 was 122 million. 
+",ECONOMIC_IMPACT,million,0.4851287499102293,[],[],"['-2016', '122', 'million']",[],12,economic,neutral,-2016,0.9147446155548096
+w24001,This would result in aggregate labor productivity (calculated using the standard BLS nonfarm private series) increasing by 1.7 percent (= 122/120).  ,DEPENDENCY_ANALYSIS,N/A,0.4586575170706801,['increase'],['bls'],"['1.7', '122/120']",[],26,productivity,neutral,1.7,0.8595296740531921
+w24001,"Beyond labor savings, advances in AI have the potential to boost total factor 
+productivity.",DEPENDENCY_ANALYSIS,N/A,0.44178691323236846,['boost'],"['ai', 'productivity']",[],[],17,productivity,positive,,0.8687176704406738
+w24001,"Recent work on training deep neural network models to perceive objects and achieve sensorimotor control 
+at the same time have yielded  robots that can perform a variety of hand -eye coordination 
+tasks  (e.g. , unscrewing bottle caps and hanging coat hangers)  (Levine et al. , 2016).",SKILL_WAGE_IMPACT,training,0.4043566697673381,[],"['levine', 'et', 'al', '.']",['2016'],[],57,skills_wages,neutral,2016,0.7485047578811646
+w24001,"One factor that might temper the aggregate impact of AI -driven productivity gains is if product demand for 
+the sectors with the largest productivity AI gains is sufficiently inelastic.",ECONOMIC_IMPACT,impact,0.4374825979283852,[],"['ai', 'ai']",['One'],[],31,economic,neutral,One,0.6258177757263184
+w24001,"Once a new skill is learned by a machine in one location, it can be replicated to other machines via digital networks.",SKILL_WAGE_IMPACT,skill,0.40331441912518123,[],[],['one'],[],24,skills_wages,neutral,one,0.7130672931671143
+w24001,"Managers began to fundamentally re- organize 
+work by replacing factories’  centralized power source and giving every individual machine 
+its own electric motor.",JOB_IMPACT,replacing,0.41518563482877013,[],[],[],[],27,employment,neutral,,0.864310622215271
+w24001,"Employment on production side will initially increase to handle R&D, AI 
+development, and new vehicle engineering.",DEPENDENCY_ANALYSIS,N/A,0.48946011921753363,['increase'],"['ai', 'employment']",[],[],20,employment,neutral,,0.6709139943122864
+w24001,"In the earl y years of autonomous 
+vehicle development and production, the marginal labor added by producers exceeds the 
+26 
+ marginal labor displaced among the motor vehicle operators.",TIMEFRAME,years,0.4292061918787552,['displace'],[],['26'],[],33,employment,neutral,26,0.8654473423957825
+w24001,"In the earl y years of autonomous 
+vehicle development and production, the marginal labor added by producers exceeds the 
+26 
+ marginal labor displaced among the motor vehicle operators.",JOB_IMPACT,displaced,0.4292061918787552,['displace'],[],['26'],[],33,employment,neutral,26,0.8654473423957825
+w24001,Both tangible and intangible capital stocks generate a capital service flow yield that accrues over time.,JOB_IMPACT,generate,0.47217251742437877,[],[],[],[],17,employment,neutral,,0.5668792128562927
+w24001,"As the growth rate of investment in unmeasured capital goods decreases, the capital service flow from unmeasured goods 
+effect on TFP can exceed the underestimation error from unmeasured capital goods.  
+",DEPENDENCY_ANALYSIS,N/A,0.46574002441362355,['decrease'],"['tfp', 'rate']",[],[],34,economic,neutral,,0.6426641941070557
+w24001,"Likewise, 
+each firm will likely have a different skill mix that it seeks in its employees, unique needs in its production process , and a particular set of supply constraints.  ",SKILL_WAGE_IMPACT,skill,0.4385853321829286,[],[],[],[],35,skills_wages,neutral,,0.8575217723846436
+w24001,"Performing Arts, The Economic Dilemma: A 
+Study of P roblems Common to T heater, O pera, Music, and D ance.  ",ECONOMIC_IMPACT,Economic,0.4771409698611724,[],['music'],[],[],28,economic,neutral,,0.8523887395858765
+w24001,"“Declining Competition and Investment 
+in the U.S. ” NBER Working Paper No. 23583.  
+",DEPENDENCY_ANALYSIS,N/A,0.43234113350023623,['decline'],"['u.s.', 'nber', 'working', 'paper', 'no']",['23583'],[],18,economic,neutral,23583,0.9160866141319275
+w24001,"American Economic Journal: Macroeconomics , 2(1):224- 245.  
+Jovanovic, Boyan and Peter L. Rousseau.",ECONOMIC_IMPACT,Economic,0.4638286793751079,[],"['american', 'economic', 'journal', 'jovanovic', 'boyan', 'peter', 'l.', 'rousseau']",['245'],[],18,economic,neutral,245,0.9387732148170471
+w24001,Oxford Review of Economic Policy .,ECONOMIC_IMPACT,Economic,0.4126747519602648,[],"['oxford', 'review', 'of', 'economic', 'policy']",[],[],6,economic,neutral,,0.9445050358772278
+WP140_web,"Subsequent papers will present an assessment of 
+the potential impact of GenAI on the Polish labour market, based on more detailed occupation 
+and task-level data and using a mix of quantitative and qualitative methods.",ECONOMIC_IMPACT,impact,0.4238044266215083,[],"['genai', 'polish']",[],[],40,economic,neutral,,0.9161080121994019
+WP140_web,"Globally, the CEE ranks between the high-income advanced economies and the emerging econ -
+omies of the Global South.",SKILL_WAGE_IMPACT,income,0.42956758707653,[],['cee'],[],[],24,skills_wages,neutral,,0.8071503639221191
+WP140_web,"GenAI can generate new content , e.g. images, text, speech.",JOB_IMPACT,generate,0.43372618089165227,[],['genai'],[],[],13,employment,neutral,,0.7390094995498657
+WP140_web,"Scoring of task automation potential
+The survey asked respondents to evaluate the extent to which GenAI could automate the execu -
+tion of various tasks (see Text Box 1).",DEPENDENCY_ANALYSIS,N/A,0.40837720364943136,['automate'],"['genai', 'text', 'box', '1', 'genai', 'tion']",['1'],[],34,general,neutral,1,0.8865839242935181
+WP140_web,"Example of a dendogram used for the review of tasks’ semantic clustering
+Once each task had been assigned to a cluster, based on its 1-digit occupational group, scoring 
+bracket from the survey and the semantic similarity of tasks, we generate the final sample of 
+tasks for expert review.",JOB_IMPACT,generate,0.40521097704658193,[],[],['1'],[],58,employment,neutral,1,0.8780215382575989
+WP140_web,"For example, Clerical Support Workers display a combination 
+of increases and decreases, suggesting nuanced task-specific assessments where automation 
+potential depends heavily on the nature of individual tasks.
+",DEPENDENCY_ANALYSIS,N/A,0.42784964508695794,"['increase', 'decrease']","['clerical', 'support', 'workers']",[],[],35,employment,neutral,,0.8221011757850647
+WP140_web,"The main LLM prompt is then updated to incorporate this additional 
+reference by conducting two sequential semantic context retrievals for each prediction, further 
+improving the model’s precision in predicting scores for new tasks.",DEPENDENCY_ANALYSIS,N/A,0.4661432357726,['improve'],['precision'],['two'],[],38,general,neutral,two,0.8462132811546326
+WP140_web,"The use of a verified “knowledge base” presents an important methodological improve -
+ment, which greatly enhances stability of our predictions across independent LLMs (see Section 
+6), and which can be used to produce similar score predictions for other occupational classifi -
+cation systems that contain job-specific tasks.",DEPENDENCY_ANALYSIS,N/A,0.4316912220690554,"['improve', 'enhance']","['which', 'stability']",['6'],[],60,employment,positive,6,0.5182895660400391
+WP140_web,"Our 2025 scores are presented in a revised occupational classification system, adopting a frame -
+work of four progressively increasing exposure gradients, that better highlights the importance 
+of potential AI exposure and task variability for determining possible outcomes.",DEPENDENCY_ANALYSIS,N/A,0.43760512386368877,['increase'],['ai'],"['2025', 'four']",[],43,employment,neutral,2025,0.8043882846832275
+WP140_web,De impact van technologie op beroepen.,ECONOMIC_IMPACT,impact,0.5025658201472812,[],[],[],[],7,economic,neutral,,0.8022637963294983
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,Economic,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,170 million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",JOB_IMPACT,created,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,employment,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,92 million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"These studies show that AI will
+have a tremendous influence on the global workforce in terms economic growth and technological innovation.
+",ECONOMIC_IMPACT,economic,0.4723019818081895,[],['ai'],[],[],24,economic,positive,,0.9048808217048645

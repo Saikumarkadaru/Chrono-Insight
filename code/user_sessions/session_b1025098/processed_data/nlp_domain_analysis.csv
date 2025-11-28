@@ -1,0 +1,7 @@
+domain,impact_type,insight_count,avg_magnitude,avg_ai_similarity,common_verbs
+general,negative,4,0.0,0.48543181022645654,[]
+economic,negative,5,200.0,0.4540023256254596,automate
+economic,positive,1,0.0,0.410976138886014,improve
+skills_wages,negative,3,0.0,0.41894812134090564,[]
+employment,positive,1,0.0,0.4267318194099313,create
+employment,negative,3,2021.0,0.45832301919773094,[]

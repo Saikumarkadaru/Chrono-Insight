@@ -1,0 +1,51 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,58,"{'neutral': 24, 'positive': 18, 'negative': 3}","economic, employment, general",461.3819444444445
+economic,9,"{'neutral': 8, 'positive': 1}","economic, employment",632.0
+the,7,"{'neutral': 5, 'positive': 1}","economic, employment",675.75
+india,7,{'positive': 4},"economic, employment, skills_wages",5.400000000000001
+forum,7,"{'neutral': 6, 'positive': 1}","economic, employment",435.0
+opportunity,6,"{'positive': 4, 'neutral': 2}","economic, employment",3.417777777777778
+machine,5,"{'neutral': 3, 'positive': 1}","general, skills_wages",0.0
+and,4,"{'neutral': 2, 'positive': 1}","skills_wages, economic",0.75
+market,4,{'neutral': 3},economic,0.75
+job,4,"{'positive': 2, 'neutral': 1}","economic, employment",0.75
+science,3,"{'neutral': 1, 'positive': 1}",skills_wages,0.0
+workforce,3,"{'neutral': 2, 'positive': 1}","employment, economic",0.4444444444444444
+osborne,3,{'neutral': 3},"employment, skills_wages",2013.0
+al,3,{'neutral': 3},"employment, economic",1411.3333333333333
+.,3,{'neutral': 3},"employment, economic",1411.3333333333333
+impact,3,{'neutral': 3},"economic, employment",0.5462962962962963
+sec,3,{'neutral': 3},"employment, skills_wages",2013.0
+productivity,3,{'positive': 3},"employment, economic",0.0
+cycles,3,{'neutral': 3},economic,2011.0
+data,3,"{'neutral': 1, 'positive': 1}",skills_wages,0.0
+sachs,3,{'neutral': 3},"economic, employment",2025.0
+goldman,3,{'neutral': 3},"economic, employment",2025.0
+university,3,{'neutral': 3},"economic, employment",2025.0
+s,3,{'neutral': 3},"skills_wages, employment",0.0
+learning,3,"{'neutral': 1, 'positive': 1}",skills_wages,0.0
+nexford,3,{'neutral': 3},"economic, employment",2025.0
+diversity,3,"{'positive': 2, 'neutral': 1}","economic, general",32.0
+city,3,{'neutral': 2},"productivity, employment",1041.0
+new,3,{'neutral': 2},"productivity, employment",1041.0
+cv,3,{'neutral': 1},employment,0.0
+york,3,{'neutral': 2},"productivity, employment",1041.0
+avenue,2,{'positive': 2},"economic, employment",0.0
+upskill,2,"{'neutral': 1, 'positive': 1}",skills_wages,0.0
+service,2,{'positive': 2},"general, employment",0.0
+automatic,2,{'neutral': 1},employment,0.0
+p,2,{'neutral': 2},general,0.0
+chemical,2,{'neutral': 2},general,0.0
+intelligent,2,{'neutral': 2},general,0.0
+pes,2,{'neutral': 2},"employment, economic",0.0
+business,2,{'neutral': 2},economic,0.0
+theultra,2,{'neutral': 2},general,0.0
+concern,2,{'neutral': 2},general,0.0
+analysis,2,{'neutral': 1},employment,0.0
+indian,2,{'neutral': 2},economic,0.0
+eu,2,{'neutral': 2},"employment, general",0.0
+development,2,"{'neutral': 1, 'positive': 1}",economic,0.0
+innopharma,2,{'neutral': 2},"economic, employment",0.4444444444444444
+step,2,{'neutral': 2},employment,0.0
+next,2,{'neutral': 2},employment,0.0
+education,2,{'neutral': 2},"economic, employment",0.4444444444444444

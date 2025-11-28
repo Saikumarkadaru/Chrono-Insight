@@ -1,0 +1,9 @@
+domain,impact_type,insight_count,avg_magnitude,avg_ai_similarity,common_verbs
+economic,neutral,16,2294.0,0.4729843347186976,"create, decrease, decline"
+economic,positive,2,0.0,0.4660127969810088,create
+productivity,positive,2,3.0,0.4258001502028982,"improve, boost"
+productivity,neutral,6,1.7,0.42609418001902594,increase
+employment,positive,2,6.0,0.44570741711144174,"create, improve, enhance"
+employment,neutral,10,449.6,0.4431045463742236,"increase, displace, decrease"
+skills_wages,neutral,4,2016.0,0.41895600203799455,[]
+general,neutral,2,1.0,0.4372602197110157,"automate, improve"

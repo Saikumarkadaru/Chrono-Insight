@@ -1,0 +1,50 @@
+affected_entity,mention_count,impact_distribution,common_domains,avg_magnitude_when_mentioned
+ai,13,"{'neutral': 9, 'positive': 3}","economic, employment, productivity",381.0
+economic,8,{'neutral': 8},"economic, employment",180.71428571428572
+forum,6,{'neutral': 6},"economic, employment",170.0
+genai,4,{'neutral': 3},"economic, employment, general",1.0
+opportunity,2,{'positive': 2},"economic, employment",0.0
+cee,1,{'neutral': 1},skills_wages,0.0
+l.,1,{'neutral': 1},economic,245.0
+rousseau,1,{'neutral': 1},economic,245.0
+oxford,1,{'neutral': 1},economic,0.0
+review,1,{'neutral': 1},economic,0.0
+of,1,{'neutral': 1},economic,0.0
+policy,1,{'neutral': 1},economic,0.0
+polish,1,{'neutral': 1},economic,0.0
+box,1,{'neutral': 1},general,1.0
+text,1,{'neutral': 1},general,1.0
+boyan,1,{'neutral': 1},economic,245.0
+1,1,{'neutral': 1},general,1.0
+tion,1,{'neutral': 1},general,1.0
+clerical,1,{'neutral': 1},employment,0.0
+support,1,{'neutral': 1},employment,0.0
+workers,1,{'neutral': 1},employment,0.0
+precision,1,{'neutral': 1},general,0.0
+which,1,{'positive': 1},employment,6.0
+stability,1,{'positive': 1},employment,6.0
+peter,1,{'neutral': 1},economic,245.0
+facebook,1,{'positive': 1},productivity,3.0
+jovanovic,1,{'neutral': 1},economic,245.0
+’s,1,{'positive': 1},productivity,3.0
+"
+",1,{'positive': 1},productivity,3.0
+research,1,{'positive': 1},productivity,3.0
+team,1,{'positive': 1},productivity,3.0
+bls,1,{'neutral': 1},productivity,1.7
+productivity,1,{'positive': 1},productivity,0.0
+levine,1,{'neutral': 1},skills_wages,2016.0
+et,1,{'neutral': 1},skills_wages,2016.0
+al,1,{'neutral': 1},skills_wages,2016.0
+.,1,{'neutral': 1},skills_wages,2016.0
+employment,1,{'neutral': 1},employment,0.0
+tfp,1,{'neutral': 1},economic,0.0
+rate,1,{'neutral': 1},economic,0.0
+music,1,{'neutral': 1},economic,0.0
+u.s.,1,{'neutral': 1},economic,23583.0
+nber,1,{'neutral': 1},economic,23583.0
+working,1,{'neutral': 1},economic,23583.0
+paper,1,{'neutral': 1},economic,23583.0
+no,1,{'neutral': 1},economic,23583.0
+american,1,{'neutral': 1},economic,245.0
+journal,1,{'neutral': 1},economic,245.0

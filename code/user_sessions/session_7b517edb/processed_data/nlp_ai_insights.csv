@@ -1,0 +1,304 @@
+doc_id,sentence,pattern_type,matched_text,ai_similarity,impact_verbs,affected_entities,magnitudes,timeframes,sentence_length,domain,impact_type,primary_magnitude,sentiment_score
+741-Article Text-738-1-10-20080129,"An increasing number of intelligists
+also think that AI is undergoinganother paradigm change away fromthe current symbolic processingparadigm to that of massive paral-lelism, or parallel distributed process-ing (PDP), or",DEPENDENCY_ANALYSIS,N/A,0.4588301422201258,['increase'],"['ai', 'pdp']",[],[],38,general,neutral,,0.8478705286979675
+741-Article Text-738-1-10-20080129,"Molecular biology has made so
+much progress in the study of bacteriaover the last decade that more andmore biochemists are moving up tomulticellular creatures and studyingsuch molecular mechanisms asembryological development, includinghow neurons grow and connect withother neurons.",TIMEFRAME,decade,0.4050989881632661,[],[],[],[],40,general,positive,,0.6624075770378113
+741-Article Text-738-1-10-20080129,"Another impact on the general pub-
+lic will come from household andcommercial robots.",ECONOMIC_IMPACT,impact,0.5704522247041357,[],[],[],[],15,economic,neutral,,0.7059842348098755
+741-Article Text-738-1-10-20080129,"Because the question of the riseof the twenty-ﬁrst century artilectconcerns everyone, a wide range ofdisciplines should be represented atsuch a conference.",TIMEFRAME,century,0.4961673540603253,[],[],[],[],23,general,neutral,,0.6925300359725952
+741-Article Text-738-1-10-20080129,"The 21st Century
+Artilect, Moral Dilemmas Concerning theUltra Intelligent Machine.",TIMEFRAME,21st Century,0.5202304493411173,[],"['moral', 'dilemmas', 'concern', 'theultra', 'intelligent', 'machine']",['21st'],[],13,general,neutral,21st,0.8569785356521606
+741-Article Text-738-1-10-20080129,"The 21st Century
+Artilect, Moral Dilemmas Concerning theUltra Intelligent Machine.",TIMEFRAME,Century,0.5202304493411173,[],"['moral', 'dilemmas', 'concern', 'theultra', 'intelligent', 'machine']",['21st'],[],13,general,neutral,21st,0.8569785356521606
+2b440821-en,"Audits of automated employment decision tools in New York City  59 
+ 
+ 
+  
+DELSA/ELSA/WD/SEM(2023)2   9 
+ARTIFICIAL INTELLIGENCE AND LABOUR MARKET MATCHING  
+Unclassified  Executive Summary  
+Good labour market performance depends  in part  on the efficiency and the quality of labour market 
+matching —i.e., the process by which workers are matched to jobs .",DEPENDENCY_ANALYSIS,N/A,0.42047720117230614,['automate'],"['new', 'york', 'city']","['59', '9']",[],69,productivity,neutral,59,0.8896267414093018
+2b440821-en,Technology may offer some  solution s to improve labour market matching .,DEPENDENCY_ANALYSIS,N/A,0.402110751457141,['improve'],['matching'],[],[],13,economic,positive,,0.6032738089561462
+2b440821-en,"Such internal mobility can 
+help fill skill gaps in the organisation, while satis fying employees’ desire for career progression and new 
+challenges .  
+",SKILL_WAGE_IMPACT,skill,0.4132111608155047,[],[],[],[],28,skills_wages,neutral,,0.5501880049705505
+2b440821-en,"Automatic Analysis of CVs and vacancies at the French and Flemish Public Employment 
+Services   
+Automatic CV Analysis at Pôle Emploi  
+The Fre nch PES, Pôle Emploi, uses a tool called “Automatic CV Analysis” ( Analyse Automatique de 
+CV – AACV ) which helps j obseeker s from the moment they  create a profile with Pôle Emploi .",JOB_IMPACT,create,0.4267318194099313,['create'],"['french', 'automatic', 'cv', 'analysis', 'fre', 'pes', 'pôle', 'emploi', '""', 'automatic', 'cv', 'analysis', 'analyse', 'automatique', 'de', '\n', 'cv', 'obseeker', 's', 'they', 'profile']",[],[],66,employment,neutral,,0.9264888763427734
+2b440821-en,"Entelo does this by searching (scraping) 200 
+million candidate profiles from 50 Internet sources  (Chamorro -Premuzic et  al., 2016",ECONOMIC_IMPACT,million,0.41177645986237243,[],"['entelo', 'chamorro', 'al', '.']","['200', 'million', '50', '2016']",[],27,economic,neutral,200,0.9102253913879395
+2b440821-en,Some tools identify skills gaps to help j obseeker s improve their employability .,DEPENDENCY_ANALYSIS,N/A,0.44387757460812177,['improve'],"['s', 'employability']",[],[],14,skills_wages,neutral,,0.8291838765144348
+2b440821-en,"A managing director for workforce transformati on 
+at a large con sulting company added: “ AI can increase transparency.",DEPENDENCY_ANALYSIS,N/A,0.4682701520266856,['increase'],"['ai', 'transparency']",[],[],22,general,neutral,,0.7266820669174194
+2b440821-en,"More specifically, Next Step uses a random forest model to estimate the probability that an individual 
+finds a job within the next six months.",TIMEFRAME,six months,0.48226772029785836,[],"['next', 'step']",['six'],[],27,employment,neutral,six,0.9230957627296448
+2b440821-en,"More specifically, Next Step uses a random forest model to estimate the probability that an individual 
+finds a job within the next six months.",TIMEFRAME,months,0.48226772029785836,[],"['next', 'step']",['six'],[],27,employment,neutral,six,0.9230957627296448
+2b440821-en,"How Pymetrics addresses bias  
+Pymetrics helps companies improve diversity and avoid bias (disparate impact).",ECONOMIC_IMPACT,impact,0.410976138886014,['improve'],"['company', 'diversity']",[],[],18,economic,neutral,,0.761307418346405
+2b440821-en,"32  DELSA/ELSA/WD/SEM(2023)2  
+ARTIFICIAL INTELLIGENCE AND LABOUR MARKET MATCHING  
+Unclassified  There is evidence that AI tools can help improve diversity.",DEPENDENCY_ANALYSIS,N/A,0.4283659555190245,['improve'],"['ai', 'diversity']",['32'],[],30,economic,positive,32,0.5303242206573486
+2b440821-en,"A managing director for workforce 
+transformation at a large consulting company interviewed as part of this project said:  
+“AI can increase the diversity of applicant pools.",DEPENDENCY_ANALYSIS,N/A,0.4369544625199542,['increase'],"['ai', 'diversity']",[],[],31,general,positive,,0.5073043704032898
+2b440821-en,"Laurim 
+et al. (2021 [92]) show that, as long as fi nal decision -making power is still with the human being, recruiters 
+see no risks of AI replacing their jobs.",JOB_IMPACT,replacing,0.4104336169974761,[],"['al', '.', 'ai']","['2021', '92']",[],40,employment,neutral,2021,0.8444395661354065
+2b440821-en,"[20]).15 
+A second potential source  of bias in AI algorithms can arise if the training data reflects past bias 
+in human decision -making.  ",SKILL_WAGE_IMPACT,training,0.4234976306933166,[],['ai'],['second'],[],29,skills_wages,neutral,second,0.5703715085983276
+2b440821-en,"In the E uropean Union, the GDPR covers the right to transparency on the use 
+of automated decision -making  and legal bases  for lawfully processing personal data.19 The proposed A I 
+Act says that “w hen persons interact with an AI system or their emotions or characteristics are recognised 
+through automated means, people must be informed of that circumstance .”20",DEPENDENCY_ANALYSIS,N/A,0.45085630450544206,"['automate', 'automate']","['gdpr', 'ai']",[],[],68,economic,neutral,,0.9048218727111816
+2b440821-en,"Similarly, the EU’s draft 
+platform directive requires digital labour plat forms to inform platform workers of the use (and key features ) 
+of automated monitoring and decision -making systems.21 In the United States, some state -level initiatives 
+are requiring recruiters to inform candidates when AI is being used in the recruitment process.",DEPENDENCY_ANALYSIS,N/A,0.4172052731283021,['automate'],"['eu', 'the', 'united', 'states', 'ai']",[],[],60,employment,neutral,,0.9148722290992737
+2b440821-en,"The EU’s proposed AI Act would require “human oversight 
+throughout the AI systems’ lifecycle” , and the proposed directive on working conditions of people working 
+through digital platforms expects human oversight and monitoring with respect to automated decision -
+making systems.",DEPENDENCY_ANALYSIS,N/A,0.4529415798926288,['automate'],"['eu', 'ai']",[],[],49,general,neutral,,0.8754996657371521
+2b440821-en,"Audits of automated employment decision tools in New York City  
+From January 2023 onwards, New York City will require “automated employment decision tools” used 
+in hiring and promotion to be audited on an annual basis.",DEPENDENCY_ANALYSIS,N/A,0.46456895941595633,"['automate', 'automate']","['new', 'york', 'city', 'new', 'york', 'city']",['2023'],[],41,employment,neutral,2023,0.9436978697776794
+2b440821-en,"Such audits will consist of an “impartial 
+evaluation” conducted by an “independent auditor” that incl udes, at a minimum, an analysis of whether 
+the automated employment decision tool has resulted in a disparate impact based on gender, race or 
+national origin.  ",ECONOMIC_IMPACT,impact,0.43184007080428555,['automate'],[],[],[],53,economic,neutral,,0.8456825613975525
+2b440821-en,Are there regular impact evaluations of the AI technologies used by PES agenc ies?,ECONOMIC_IMPACT,impact,0.4155857624634573,[],"['ai', 'pes']",[],[],15,economic,neutral,,0.9278488159179688
+2b440821-en,• What else do you measure to monitor the impact of the technology?,ECONOMIC_IMPACT,impact,0.44035711029304675,[],[],[],[],14,economic,neutral,,0.9318671226501465
+2b440821-en,"Information and training for PE S caseworkers  
+Q17.",SKILL_WAGE_IMPACT,training,0.4201355725138956,[],"['pe', 's', 'q17']",[],[],10,skills_wages,neutral,,0.9244054555892944
+48820-Article Text-144997-1-10-20200714,"In his work Business Cycles, Schumpeter emphasized the importance of 
+innovations as a determining factor of economic development.",ECONOMIC_IMPACT,economic,0.42917116408252476,[],"['business', 'cycles', 'schumpeter']",[],[],21,economic,neutral,,0.516698956489563
+48820-Article Text-144997-1-10-20200714,"The fundamental impulse that keeps the capitalist machine 
+in operation comes from the new consumer goods, the ne w methods of production or transportation, the new 
+markets, and the new forms of productive organization created by the capitalist enterprise.",JOB_IMPACT,created,0.5349589186678458,['create'],[],[],[],45,employment,neutral,,0.7966989278793335
+48820-Article Text-144997-1-10-20200714,"There is inherent tendency in the capitalist system for self -destruction and the idea of creative 
+destruction highlights the disruptive charact er that characterizes the interference of major technological 
+innovations over economies and their role as a fundamental agent in the process of economic development.",ECONOMIC_IMPACT,economic,0.4853331517350573,[],[],[],[],48,economic,negative,,0.5829136967658997
+48820-Article Text-144997-1-10-20200714,"The use of hydraulic energy expanded and the textile industry was one of the most representative 
+economic sectors of this historical period.  
+ 
+",ECONOMIC_IMPACT,economic,0.45867628164727064,[],[],['one'],[],25,economic,positive,one,0.5343061089515686
+48820-Article Text-144997-1-10-20200714,"The third wave  
+ The third wave, characterized between the late nineteenth and the first half of the twentieth century, was a 
+technological revolution that had among the main innovations the development of electricity, the internal 
+combustion engine, chemical p roducts and the first communication technologies, such as invention of the 
+telephone and the radio and the diffusion of the telegraph.",TIMEFRAME,twentieth century,0.4890384928493913,[],"['chemical', 'p']","['third', 'third', 'nineteenth', 'first', 'twentieth', 'first']",[],70,general,neutral,third,0.7543816566467285
+48820-Article Text-144997-1-10-20200714,"The third wave  
+ The third wave, characterized between the late nineteenth and the first half of the twentieth century, was a 
+technological revolution that had among the main innovations the development of electricity, the internal 
+combustion engine, chemical p roducts and the first communication technologies, such as invention of the 
+telephone and the radio and the diffusion of the telegraph.",TIMEFRAME,century,0.4890384928493913,[],"['chemical', 'p']","['third', 'third', 'nineteenth', 'first', 'twentieth', 'first']",[],70,general,neutral,third,0.7543816566467285
+48820-Article Text-144997-1-10-20200714,"1.5 The fifth wave  
+ The fift h wave, beginning in the 1990s, is heavily based on information and communication technologies 
+- generating the expansion of digital cellular telephony, the explosion of digital social networks, the growth of the 
+software industry, the development of the U HF (Ultra High Frequency) RFID (Radio Frequency Identification) 
+by IBM, the development of geolocation technologies such as GPS (Global Positioning System), AGPS (Assisted 
+Global Positioning System), GSM (Global System for Mobile Communications) and the em ergence of new 
+digital social media.",JOB_IMPACT,generating,0.42360033595965535,[],"['the', 'u', 'hf', 'ibm', 'agps', 'gsm']","['1.5', 'fifth']",[],111,employment,neutral,1.5,0.7969960570335388
+48820-Article Text-144997-1-10-20200714,"Every 
+wave converges, at its end, to a typical economic crisis and stagnation.",ECONOMIC_IMPACT,economic,0.4070327132682235,[],[],[],[],17,economic,negative,,0.6712260842323303
+48820-Article Text-144997-1-10-20200714,"These factors have reduced hardware prices to an 
+extraordinary degree.",JOB_IMPACT,reduced,0.4933619787766394,['reduce'],"['factor', 'price']",[],[],12,employment,neutral,,0.5034382343292236
+48820-Article Text-144997-1-10-20200714,"While Moore's Law provides for the annual do ubling of memory 
+capacity in electronic chips in relation to their cost and thus cutting hardware cost fast, the zero marginal cost 
+hypothesis points to the decreasing cost of inputs and related services the information (RIFKIN, 2016).",DEPENDENCY_ANALYSIS,N/A,0.422756175917272,['decrease'],"['moore', 'rifkin']","['zero', '2016']",[],53,policy,neutral,zero,0.8103115558624268
+48820-Article Text-144997-1-10-20200714,This explains the high gro wth rates of the digital economy and its ubiquity.,ECONOMIC_IMPACT,economy,0.48685193434861307,[],[],[],[],15,economic,positive,,0.5008401274681091
+48820-Article Text-144997-1-10-20200714,"In the Sixth Wave, the new technological arrangement opens the 
+expected possibility of economic expansion, but it exacerbates one of the fundamental aspects of capitalism: 
+productivity will certainly mak e a leap from the integration of technological potentialities.",ECONOMIC_IMPACT,economic,0.46746521551032155,[],"['the', 'sixth', 'wave']","['Sixth', 'one']",[],44,economic,neutral,Sixth,0.5938777923583984
+48820-Article Text-144997-1-10-20200714,"On th e other hand, the same 
+systems, machines and new technologies will generate a huge reduction in the need for human labor 
+(KAGERMANN et al., 2013).",JOB_IMPACT,generate,0.448975979589886,[],"['kagermann', 'al', '.']",['2013'],[],36,employment,neutral,2013,0.5666148662567139
+48820-Article Text-144997-1-10-20200714,"In the twentieth century, mechanization affected manual and repetitive labor, triggering a cycle of 
+substitution of human labor in factories around the world.",TIMEFRAME,twentieth century,0.41347655466905253,[],[],['twentieth'],[],27,employment,negative,twentieth,0.4932765066623688
+48820-Article Text-144997-1-10-20200714,"In the twentieth century, mechanization affected manual and repetitive labor, triggering a cycle of 
+substitution of human labor in factories around the world.",TIMEFRAME,century,0.41347655466905253,[],[],['twentieth'],[],27,employment,negative,twentieth,0.4932765066623688
+48820-Article Text-144997-1-10-20200714,"Digital innovation changes more radically the  way the 
+economic pie is distributed and accentuates the concentration of wealth, while destroying jobs for middle -class 
+workers.",ECONOMIC_IMPACT,economic,0.40693985713585046,[],['digital'],[],[],30,economic,negative,,0.6212924718856812
+48820-Article Text-144997-1-10-20200714,"Despite fears about 
+these po ssibilities, what is certain is that artificial intelligence and other technologies such as synthetic biology, 
+computer science, nanotechnology, quantum computing, additive manufacturing, autonomous vehicles and 
+robotics will have fundamental impacts on th e structure of work, on the economy and society in the coming 
+decades.",ECONOMIC_IMPACT,economy,0.4052542140089502,[],"['quantum', 'computing']",[],[],62,economic,neutral,,0.6239035725593567
+48820-Article Text-144997-1-10-20200714,"Even in the field of programming services, the use 
+of artificial intelligence applied to self -repair codes reduces the need for human programmers.",JOB_IMPACT,reduces,0.40439205996476185,['reduce'],['need'],[],[],26,employment,neutral,,0.7339391112327576
+48820-Article Text-144997-1-10-20200714,"The retail sector is one of the great generators o f employment, both because of its size in the world 
+economy and because of its labor -intensive character.",ECONOMIC_IMPACT,economy,0.4386185183238346,[],[],['one'],[],31,economic,positive,one,0.8331274390220642
+48820-Article Text-144997-1-10-20200714,"Because it encompasses a variety of activities that require low qualification, the services sec tor has generated job 
+and income opportunities for industry and rural unemployeds (OSBORNE, FREY, 2013).",JOB_IMPACT,generated,0.4233851824265784,[],"['sec', 'osborne']",['2013'],[],36,employment,neutral,2013,0.6649221777915955
+48820-Article Text-144997-1-10-20200714,"Because it encompasses a variety of activities that require low qualification, the services sec tor has generated job 
+and income opportunities for industry and rural unemployeds (OSBORNE, FREY, 2013).",JOB_IMPACT,generated job,0.4233851824265784,[],"['sec', 'osborne']",['2013'],[],36,employment,neutral,2013,0.6649221777915955
+48820-Article Text-144997-1-10-20200714,"Because it encompasses a variety of activities that require low qualification, the services sec tor has generated job 
+and income opportunities for industry and rural unemployeds (OSBORNE, FREY, 2013).",SKILL_WAGE_IMPACT,income,0.4233851824265784,[],"['sec', 'osborne']",['2013'],[],36,skills_wages,neutral,2013,0.6649221777915955
+48820-Article Text-144997-1-10-20200714,"The speed with which 
+transformation is occurring, the accelerated scalability of new technologies, the number of disruptive 
+technologies emerging or maturing simultaneously, the massive potential for rep lacing human labor, the relevant 
+impact that will occur in service sector jobs, and the different demand for qualification for workers - which favors 
+some occupations as it excludes others - are some of the differences from the past that will dramatically affect the 
+structure and the labor market.",ECONOMIC_IMPACT,impact,0.4118567748344069,[],[],[],[],87,economic,neutral,,0.7624189853668213
+48820-Article Text-144997-1-10-20200714,"The wealth that will be generated by economic growth in the 
+
+THE SIXTH WAVE OF INNOVATION:",JOB_IMPACT,generated,0.4118174441741604,[],[],['SIXTH'],[],18,employment,neutral,SIXTH,0.5057258009910583
+48820-Article Text-144997-1-10-20200714,"The wealth that will be generated by economic growth in the 
+
+THE SIXTH WAVE OF INNOVATION:",ECONOMIC_IMPACT,economic,0.4118174441741604,[],[],['SIXTH'],[],18,economic,neutral,SIXTH,0.5057258009910583
+48820-Article Text-144997-1-10-20200714,"Lima, I. C.  Economic Cycles: Theory and Evidence ANPEC 2011.",ECONOMIC_IMPACT,Economic,0.4242341886312595,[],"['lima', 'i.', 'c.', ' ', 'economic', 'cycles', ':', 'theory']",['2011'],[],14,economic,neutral,2011,0.9374595284461975
+48820-Article Text-144997-1-10-20200714,"Disruptive technologies: Advances that will transform life, 
+business, and the global economy.",ECONOMIC_IMPACT,economy,0.43929298029151914,['transform'],"['that', 'life']",[],[],17,economic,positive,,0.844062089920044
+48820-Article Text-144997-1-10-20200714,A hard -science approach to Kondratieff's economic cycle Modis.,ECONOMIC_IMPACT,economic,0.5251141513824885,[],"['kondratieff', 'modis']",[],[],11,economic,neutral,,0.826562762260437
+48820-Article Text-144997-1-10-20200714,Business Cycles The Theory of Economic Development:,ECONOMIC_IMPACT,Economic,0.49865247356669157,[],"['business', 'cycles', 'the', 'theory', 'of', 'economic', 'development']",[],[],8,economic,neutral,,0.8175441026687622
+48820-Article Text-144997-1-10-20200714,"An investigation on pro fits, capital, credit, 
+interest and the economic cycle.",ECONOMIC_IMPACT,economic,0.44695192308041815,[],[],[],[],17,economic,neutral,,0.8889431357383728
+URL9,"Positive Impact of Artificial Intelligence on Employment
+AI's integration into various industries has heralded a wave of transformative opportunities, creating new avenues for job creation and
+enhancing productivity.",ECONOMIC_IMPACT,Impact,0.405930580069549,"['create', 'enhance']","['ai', 'avenue', 'productivity']",[],[],33,economic,positive,,0.9411276578903198
+URL9,"Positive Impact of Artificial Intelligence on Employment
+AI's integration into various industries has heralded a wave of transformative opportunities, creating new avenues for job creation and
+enhancing productivity.",JOB_IMPACT,creating,0.405930580069549,"['create', 'enhance']","['ai', 'avenue', 'productivity']",[],[],33,employment,positive,,0.9411276578903198
+URL9,"Job Creation in AI Development and Maintenance: The AI impact on employment has led to the creation of new job roles, from AI
+engineers to data analysts.",ECONOMIC_IMPACT,impact,0.4182419737013206,[],"['job', 'creation', 'ai', 'development', 'ai', 'ai']",[],[],31,economic,positive,,0.7692239284515381
+URL9,"Improved Customer Experience: AI-driven technologies, such as chatbots and virtual assistants, enhance customer service by providing
+instant support and personalized recommendations.",DEPENDENCY_ANALYSIS,N/A,0.47710930946206875,['enhance'],"['experience', 'service']",[],[],28,general,positive,,0.9158213138580322
+URL9,"Upskill with Data Science and Machine Learning
+",SKILL_WAGE_IMPACT,Upskill,0.41386785788160424,[],"['upskill', 'data', 'science', 'and', 'machine', 'learning']",[],[],8,skills_wages,neutral,,0.7885338068008423
+URL9,"Economic Inequality: The impact of AI on jobs is uneven, making economic inequality worse.",ECONOMIC_IMPACT,Economic,0.49984006765907807,[],['ai'],[],[],17,economic,negative,,0.8503677845001221
+URL9,"Economic Inequality: The impact of AI on jobs is uneven, making economic inequality worse.",ECONOMIC_IMPACT,impact,0.49984006765907807,[],['ai'],[],[],17,economic,negative,,0.8503677845001221
+URL9,"Economic Inequality: The impact of AI on jobs is uneven, making economic inequality worse.",ECONOMIC_IMPACT,economic,0.49984006765907807,[],['ai'],[],[],17,economic,negative,,0.8503677845001221
+URL9,"Skilled workers may do well in an AI-driven
+economy.",ECONOMIC_IMPACT,economy,0.4094466200993982,[],[],[],[],13,economic,positive,,0.6360299587249756
+URL9,"Education and job training will be important to help people
+work in an AI-driven world.",SKILL_WAGE_IMPACT,training,0.4727725087042157,[],[],[],[],19,skills_wages,neutral,,0.5581718683242798
+URL9,"Upskill with Data Science and Machine Learning
+Adapt to the AI revolution by equipping yourself with in-demand skills through our Data Science and Machine Learning Course.",SKILL_WAGE_IMPACT,Upskill,0.433995219784307,[],"['upskill', 'data', 'science', 'and', 'machine', 'learning', 'data', 'science', 'and', 'machine', 'learning', 'course']",[],[],30,skills_wages,positive,,0.587358295917511
+URL9,"Retail Jobs: Cashiers, stock clerks, and other roles in retail are being replaced by self-checkout systems, automated inventory
+management, and online shopping platforms.
+",JOB_IMPACT,replaced,0.4366252945590696,['automate'],[],[],[],33,employment,neutral,,0.6351576447486877
+URL9,"AI can boost
+productivity, create new jobs, and improve customer service.",JOB_IMPACT,create,0.41290652216996454,"['boost', 'create', 'improve']","['ai', 'ai', 'productivity', 'job', 'service']",[],[],15,employment,positive,,0.8868529200553894
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,Economic,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,170 million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",JOB_IMPACT,created,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,employment,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,92 million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"The W orld Economic Forum finds that 170 million new jobs will be created by 2030 —but 92 million will disappear, with the biggest
+growth in AI, tech, healthcare, green energy, and skilled trades.",ECONOMIC_IMPACT,million,0.49142288162516257,['create'],"['economic', 'forum', 'ai']","['170', 'million', '2030', '92', 'million']",['by 2030'],42,economic,neutral,170,0.5828096866607666
+URL10,"These studies show that AI will
+have a tremendous influence on the global workforce in terms economic growth and technological innovation.
+",ECONOMIC_IMPACT,economic,0.4723019818081895,[],['ai'],[],[],24,economic,positive,,0.9048808217048645
+URL5,"Many market research analysts say that AI has the potential to bring about numerous positive changes in society,
+including enhanced productivity, improved healthcare, and increased access to education.",DEPENDENCY_ANALYSIS,N/A,0.43117300603435416,"['improve', 'increase']",['ai'],[],[],33,productivity,positive,,0.9467055201530457
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,impact,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,economic,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,$13 trillion,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,13 trillion,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,trillion,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,"McKinsey global institute says that at the global average level of adoption and absorption and advances in ai implied
+by their simulation, AI has the profound impact to deliver additional global economic activity of around $13 trillion in
+the foreseeable future and by 2030, or about 16% higher cumulative GDP compared with today.
+",ECONOMIC_IMPACT,GDP,0.4165942512009013,[],['ai'],"['13', 'trillion', '2030', '16']",['by 2030'],61,economic,positive,13,0.6843972206115723
+URL5,This amounts to 1.2% additional GDP growth per year.,ECONOMIC_IMPACT,GDP,0.45938326847797406,[],[],['1.2'],[],11,economic,positive,1.2,0.5158668756484985
+URL5,This amounts to 1.2% additional GDP growth per year.,TIMEFRAME,year,0.45938326847797406,[],[],['1.2'],[],11,economic,positive,1.2,0.5158668756484985
+URL5,"How will Artificial Intelligence Affect Jobs 2025-2030 | Nexford University
+https://www.nexford.edu/insights/how-will-ai-affect-jobs 2/12
+Artiﬁcial intelligence (AI) could replace the equivalent of 300 million full-time jobs, a report by investment bank
+Goldman Sachs says.",JOB_IMPACT,replace,0.4420293042847514,[],"['nexford', 'university', 'ai', 'goldman', 'sachs']","['2025', '2030', '2/12', '300', 'million']",[],43,employment,neutral,2025,0.8944699764251709
+URL5,"How will Artificial Intelligence Affect Jobs 2025-2030 | Nexford University
+https://www.nexford.edu/insights/how-will-ai-affect-jobs 2/12
+Artiﬁcial intelligence (AI) could replace the equivalent of 300 million full-time jobs, a report by investment bank
+Goldman Sachs says.",ECONOMIC_IMPACT,300 million,0.4420293042847514,[],"['nexford', 'university', 'ai', 'goldman', 'sachs']","['2025', '2030', '2/12', '300', 'million']",[],43,economic,neutral,2025,0.8944699764251709
+URL5,"How will Artificial Intelligence Affect Jobs 2025-2030 | Nexford University
+https://www.nexford.edu/insights/how-will-ai-affect-jobs 2/12
+Artiﬁcial intelligence (AI) could replace the equivalent of 300 million full-time jobs, a report by investment bank
+Goldman Sachs says.",ECONOMIC_IMPACT,million,0.4420293042847514,[],"['nexford', 'university', 'ai', 'goldman', 'sachs']","['2025', '2030', '2/12', '300', 'million']",[],43,economic,neutral,2025,0.8944699764251709
+URL5,"Reviewing the system capabilities, controlling the workﬂow and schedule improvements and increase automation is
+only part of a Computer System Analyst, a profession that is a great demand in the last years.
+",TIMEFRAME,years,0.40758850106575084,['increase'],"['computer', 'system', 'analyst', 'automation']",[],[],37,general,positive,,0.5301457643508911
+URL6,"AI is rapidly transforming the workforce, with significant changes
+already apparent in the job market and employment landscape.",DEPENDENCY_ANALYSIS,N/A,0.40682982963226344,['transform'],"['ai', 'ai', 'workforce']",[],[],21,employment,positive,,0.8592878580093384
+URL6,"Impa ct of AI o n Job Roles
+The rise of automation and AI is transforming the workplace, impacting
+job roles across various industries, including high-tech manufacturing.
+",DEPENDENCY_ANALYSIS,N/A,0.42007622403548395,['transform'],"['ai', 'ai', 'ai', 'role']",[],[],35,employment,positive,,0.5073825716972351
+URL6,"The Impact of AI on Job Roles, Workforce, and Employment: What You Need to Know | Innopharma Education
+https://www.innopharmaeducation.com/blog/the-impact-of-ai-on-job-roles-workforce-and-employment-what-you-need-to-know 4/9
+AI is creating new job opportunities that require skills such as critical
+thinking, creativity, and problem-solving.",ECONOMIC_IMPACT,Impact,0.4119124929037846,['create'],"['workforce', 'innopharma', 'education', 'ai', 'impact', 'ai', 'opportunity']",['4/9'],[],47,economic,neutral,4/9,0.6846416592597961
+URL6,"The Impact of AI on Job Roles, Workforce, and Employment: What You Need to Know | Innopharma Education
+https://www.innopharmaeducation.com/blog/the-impact-of-ai-on-job-roles-workforce-and-employment-what-you-need-to-know 4/9
+AI is creating new job opportunities that require skills such as critical
+thinking, creativity, and problem-solving.",JOB_IMPACT,creating,0.4119124929037846,['create'],"['workforce', 'innopharma', 'education', 'ai', 'impact', 'ai', 'opportunity']",['4/9'],[],47,employment,neutral,4/9,0.6846416592597961
+URL7,This raises an important question: Which jobs will AI impact the most?On,ECONOMIC_IMPACT,impact,0.4190894013644446,[],['ai'],[],[],13,economic,neutral,,0.840055525302887
+URL7,"Top Skills of the Future
+According to the World Economic Forum 2025 Future of Jobs Report, individuals should consider
+building the following skills to stay competitive and relevant in the AI-driven job market:
+•Analytical thinking
+•AI and big data10/30/25, 12:28 PM",ECONOMIC_IMPACT,Economic,0.41849275146284626,[],"['the', 'world', 'economic', 'forum']",['2025'],[],50,economic,positive,2025,0.5218254327774048
+URL7,"They will be essential in leveraging AI and automation to solve complex
+problems, drive innovation and ensure meaningful human contribution in the workforce.
+",ECONOMIC_IMPACT,contribution,0.4053263889578943,[],['ai'],[],[],27,economic,positive,,0.827786922454834
+URL7,"Ways AI Impacts the Job Market and Employment Trends
+https://onlinedegrees.sandiego.edu/ai-impact-on-job-market/ 6/8
+AI and the Job Market: Final Thoughts
+AI has a significant impact on the job market, leading to both job displacement and the creation of
+new roles.",ECONOMIC_IMPACT,impact,0.4685424087184398,[],"['ways', 'ai', 'impact', 'the', 'job', 'market', 'and', 'employment', 'trends', 'ai', 'the', 'job', 'market', ':', 'final', 'thought', '\n', 'ai']",['6/8'],[],45,economic,neutral,6/8,0.8816838264465332
+URL8,"In this blog, we will explore how AI and automation are transforming the Indian job market, examine their
+potential socio-economic impact, and suggest policy measures to harness their benefits while mitigating
+adverse effects.
+",ECONOMIC_IMPACT,economic,0.40869503367873694,['transform'],"['ai', 'indian', 'ai', 'market']",[],[],42,economic,neutral,,0.6046594977378845
+URL8,"In this blog, we will explore how AI and automation are transforming the Indian job market, examine their
+potential socio-economic impact, and suggest policy measures to harness their benefits while mitigating
+adverse effects.
+",ECONOMIC_IMPACT,impact,0.40869503367873694,['transform'],"['ai', 'indian', 'ai', 'market']",[],[],42,economic,neutral,,0.6046594977378845
+URL8,"India
+The IT industry in India has been a major employer, providing over 5.4 million jobs and creating numerous
+opportunities for fresh engineering graduates.",ECONOMIC_IMPACT,5.4 million,0.40745172215972913,['create'],"['india', 'india', 'opportunity']","['5.4', 'million']",[],28,economic,positive,5.4,0.9161001443862915
+URL8,"India
+The IT industry in India has been a major employer, providing over 5.4 million jobs and creating numerous
+opportunities for fresh engineering graduates.",ECONOMIC_IMPACT,million,0.40745172215972913,['create'],"['india', 'india', 'opportunity']","['5.4', 'million']",[],28,economic,positive,5.4,0.9161001443862915
+URL8,"India
+The IT industry in India has been a major employer, providing over 5.4 million jobs and creating numerous
+opportunities for fresh engineering graduates.",JOB_IMPACT,creating,0.40745172215972913,['create'],"['india', 'india', 'opportunity']","['5.4', 'million']",[],28,employment,positive,5.4,0.9161001443862915
+URL8,"AI-driven diagnostic tools, medical imaging
+analysis, and predictive analytics are enhancing the accuracy and efficiency of healthcare services.
+",DEPENDENCY_ANALYSIS,N/A,0.4164134255540389,['enhance'],"['tool', 'accuracy']",[],[],25,productivity,positive,,0.7518297433853149
+URL8,"However, the
+advent of automation technologies like robotic process automation, AI-powered machinery, and 3D printing
+is reducing the demand for manual labor, especially in assembly-line tasks.
+",JOB_IMPACT,reducing,0.4203754443728566,['reduce'],"['ai', 'advent', 'printing', 'demand']",[],[],38,employment,neutral,,0.7789855599403381
+URL8,"Mitigating Job Displacement
+A crucial step in mitigating job displacement is investing in education and training initiatives focused on
+upskilling and reskilling the workforce.",SKILL_WAGE_IMPACT,training,0.43185038036968093,[],[],[],[],27,skills_wages,neutral,,0.778899610042572
+URL8,"Encouraging entrepreneurship and innovation is another effective strategy for creating new job
+opportunities.",JOB_IMPACT,creating,0.4113465324492648,['create'],['opportunity'],[],[],15,employment,positive,,0.892962634563446
+URL8,"As demand for AI specialists and skilled professionals
+grows, India must prioritize investment in skill development and establish a robust AI research ecosystem.",SKILL_WAGE_IMPACT,skill,0.4012068070862742,[],"['ai', 'india', 'ai']",[],[],26,skills_wages,positive,,0.5743410587310791
